@@ -882,8 +882,15 @@
     "name": "TV NOVELAS",
     "samples": [
       {
+        "name": "TELEMUNDO",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkC0mtF1/S21cpVmj1KF2mXI/CyQyNtts0ZSu5O1un0/DemXxqqY+tT+9KzUfNviiklf5BeWcRrwBrLE5dCanUp",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png"
+      },
+      {
         "name": "TLN",
         "uri": "IaHgeqImiPWgcJdPpk/nozppDyObP6v5woTL4zjncnbKJHX5ROScb19YDqRKZSUz3KSraJpWZHOmylCQwoLi6Dqjpkf1DfsfZPyOubogrNs=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfeQWkEt5rkYq2GbSqU278GoAwfV2EPm5nh8NN7RqjItOZQWHojf+8pIOs6Kw9CCmdrKnpjElRzIy3sI7aW5pMxU6o2l50uyIpwGdNIoV5Rj9/p5CGXWdzC+rL5w6XSWUQ==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png"
       },
       {
