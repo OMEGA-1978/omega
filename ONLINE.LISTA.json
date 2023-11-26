@@ -88,6 +88,12 @@
     "name": "Canales de Musica radios",
     "samples": [
       {
+        "name": "ESENCIALES VORTERIX",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkwIODB3TXirFVrHDWjSem5jwb0rBKAuqwnCF87qLaq8KmpUFKMHnQc8lnVoFsyD16UmtA8J7xXJB3HCndAUNvd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+      },
+      {
         "name": "MTV HITS",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClIPCoDOWadcM67Pj01F5bc9SBEM0mzXOoaBXTuTJlIkiRnKRrr7r+BTyytrHtfwE3nagUfUML+VpP69tOZEnwj",
         "drm_scheme": "clearkey",
