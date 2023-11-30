@@ -43,47 +43,7 @@
     "name": "PELICULAS y SERIES",
     "samples": [
       {
-        "name": "Marilina atreverse a Soñar la Serie parte 1 ",
-        "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgNL5SAXTNmPnPzXZEZHnJPsYK0kc/WKFWt2l6l4WUpstDp3As9h0J34EfuDdmgUIQfNrTWZL4Af/DuTQ4nFFF9p",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 2",
-        "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgNL5SAXTNmPnPzXZEZHnJPsmcmpk0fiaHyDxLPy6q/DB+Ns76eFjj9Qyt+GVT4DArdS97mjZ4XfStoXYm0OmPyG",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 3",
-        "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgNL5SAXTNmPnPzXZEZHnJPsu6dTNMx+AcnH+clZubGHbyN9dtY9D1RkyRWpN0AhlzBJ0rb5YuVJrHyANZ5V4skx",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 4",
-        "uri": "pKAMTZxDrMyk1rye7uHwifH1mxMRYY43lIIpauAL0ZoGGa0PFDY+5ociUts9AytIRXViiHE5ARsMGwpQD7QXmQ==",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 5",
-        "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgMwtNy/8JDkGDDM0ehxLSbzv/GXCy5bCRJIpxyZymXJVnmfkgOV1UIc9fo4truLaCrfgvxK36KwQgcc4R9Xo/IV",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 6",
-        "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgMwtNy/8JDkGDDM0ehxLSbzM3F8jXBYrKv3XP+ZnZig6JflVnX9htJLHyAOxRi1xmIPtk7x5KT8YmU/JjKnyWK6",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie parte 7",
-        "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgMwtNy/8JDkGDDM0ehxLSbzsv1KIc0avihgU3+Zn0CHyS0nV+pGTCNVJj0tVTiwGTwqTejgVNKg+o1fP4ZDgTRA",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Marilina atreverse a Soñar la Serie la final",
-        "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgMoOosnOXr2arNWILbyIf2zPvL8LlZNeNxqywwTWcabYJvbJS1I3Qtf4AzAEcBjkkUMS3An5gPmbBr+ZBW9GDus",
-        "icono": "https://www.laclave.com.py/wp-content/uploads/2023/07/PAG-7-A-1-4.jpeg"
-      },
-      {
-        "name": "Conciencia (2023)",
+       "name": "Conciencia (2023)",
         "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+WendBWpW9bPLmQMhus82RPZaOkZJ4+DjJsNQjZ8Fjn2cUATz29yo8FGQm6S+olBevGTCo9pD52tugNxVyoSj+B4lwcjm7dRLNQ6QqtvMzDAQ==",
         "icono": "https://m.media-amazon.com/images/M/MV5BZDhmNzI5NzktNjIzMy00N2VhLTllZTYtZjk2YjhkMmZmOTNmXkEyXkFqcGdeQXVyMTE4MTgyMjEw._V1_FMjpg_UX1000_.jpg"
       },
