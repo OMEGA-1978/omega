@@ -58,9 +58,9 @@
       },
       {
         "name": "DIRECTV",
-        "uri": "yE7MSu6TYnVFeqqdomnjYkz1V8mcmeKnpJpscYxzM8HKYiP8zLZV+l6/S0+hsIkaSzy33F8ShEfE33mFLSPRuTMQl3idK/Ww9+SsYO0bt8E=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybIlHZip1aAm+/RRPrdbqoKJtzME6Ta8WcApSE9Su9PtCjZLNFrKgJvncHHzlwcO4KoZFqn2CykeefVD3Yh0W+jUtoEK537WYxj++9Q+WxxUemqyiF7bUUzb+wsq85Ee1A==",
+        "uri": "G0dCCNvWJzMP6o9Fa++q8pfYjUCi1u1ghXEK1i7zoNiXrvp5xPUKdG2HXfsYCsa2WdcOvTW81hfAvu3Kyyc9+k+1/vPg7HLnqPaE0E8SZ3HkNtTZdtu8rK9cJJ6N4g==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "G0dCCNvWJzMC7o0ec/u95peUggyil+EkgGgdjgvhrZKcvec4xQ==",
         "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
       },
       {
