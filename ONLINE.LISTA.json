@@ -44,48 +44,10 @@
     "samples": [
       {
         "name": "Argentina vs. Nueva Zelanda (Semifinal)",
-        "uri": "PO1nbxCFh/nH0Ntf3BIZwYyZ9om1N3lk9b88V0Pbnr+r+1LzVE2DYcVovXtyrPwsbH6Az3RvP8bkVQh4ts59kqjbWgGvPzrvoPedW5uLrX8LgHdHhFU5/ru3gjrCnhZob+P07rTjwak2R+y+mJFwHvBdlts9chT8vERPAkAJ2cvvONV+HfEAi1LDDEKRH8er",
-        "drm_scheme": "widevine",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/89A9C05A1BAB3920C492B3CF73006351F3D6E41330FB796B828329E55E031814/scale?width=320",
-        "drm_license_uri": "a+nh9lZ7v6L/aXf/WwZCoIvVq9JO3kyMO+gIGugQxiJ8QuqydcygkzRWttXcEVY/"
-      },
-      {
-        "name": "GEN TV ",
-        "uri": "jY7pZae+9CST4AAdnasupCnIphXvjpU9qEKJ7MjKj12aXwfmpNcWsOBmnsFHzMGY9HsarPQSquSuN0GPxytg6N3RG6wwKkecMJo/q87e4eR49CZyXWw9OqzA/46fdqEw",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q+5rgfX4yJV1eHdqbWXRvPjKsBFAnj8NJt1FkOV8c+R0Ba6dPdelDdLJIllH5UnmOA==",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
-      },
-      {
-        "name": "DIRECTV",
         "uri": "G0dCCNvWJzMP6o9Fa++q8pfYjUCi1u1ghXEK1i7zoNiXrvp5xPUKdG2HXfsYCsa2WdcOvTW81hfAvu3Kyyc9+k+1/vPg7HLnqPaE0E8SZ3HkNtTZdtu8rK9cJJ6N4g==",
         "drm_scheme": "widevine",
-        "drm_license_uri": "G0dCCNvWJzMC7o0ec/u95peUggyil+EkgGgdjgvhrZKcvec4xQ==",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
-      },
-      {
-        "name": "tv caracol",
-        "uri": "VgMIhVsmMZP3RPED6dlWRYCwT+n6qpWGoXXQMiTJxMsYNDm5TOJKQJmI0AYKfCjitngmPf5ePZjYRlQ2qAEz1jeAG//vY30Ka9bkPjL2MPU=",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
-      },
-      {
-        "name": "AMERICA TV",
-        "uri": "nWeC8CsAO5/uRJHOTW5V9kfDKjfs5PTYp2jkN1Wf0+mWL0b4qM91iMuLIm0yNaCFYTuErlgjRfzG3ghxeo05LTMQl3idK/Ww9+SsYO0bt8E=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfQNbrbnO6jWuH5avkgrQZwkLqXKrK/6tKnopyQFru2aPXhqWAIwqUqss/O0l+MZ1FzVThPmNhDGmzARJg+lMTpXxYfzEzn3Mhbi7wQ3cxxDgpoInOueRRszytiHTOH9fQ==",
-        "icono": "https://i.ibb.co/bPKWXGc/america.jpg"
-      },
-      {
-        "name": "tv caracol opc 2",
-        "uri": "pJEgCL4oAl/0JmKUAcZaNQ0VFultVPhPe9IfSNO3i4JZDORh8oRT1yZQ5IKPIbS/jmqnod+3xHG5jukr/GBDNEgPDx8RFAUXW5xr4wyLzROU9/nrHyiqN/ILmafLI+SzpjOKv7PZOngjAhRuP5IqWrMj/0dYA+1URjUjGunYwKIV8JxjWVhiB2uZPaXufkdQ83T8HqME11zwEBoYt5dph2BVObH0CZuObknvONr31mYl8i1ddjg/Qvqo/2U0DGQdF/jvkfbkpOR/Aubi7ylXeJ3Hu1bGApcQ2/CU6yaD3M3NQKNYPVnpxdFDIp7Y+0mVJRexpiOtGcfxRHpIwK1/S8LsHfq0r8oT9A8fMsdnR4W3uEPkB52ReDOHuee7JG/TkaSl5sCfT9SCaxHRJbNWtf6jSkSV4qeJgOhuPYR7rO00ALHca2QkC9Ch55i95h6/IrHdo4MAgrFbJrG8PfG7hIC3MsUcoToouVCyA35oLh5WAx9xzcy3Q2oQ3unn1/S9wdJSr3shDUXnCSM1upSsGzCaEe23bkZzJhO3lG4jdX5624LvxcjPdlynowt484EYDinIkI7APbSyXw5jGLG/Og0kj/rAd40biX6AtrW09zj4xM1euBZsBNu5dnvDZEGVGsEoOt3Y+mi8j6oMiknFU/XdnbGvtZWbjEp15r9cpcwvx+1UHL27CjooQN6adN/hLOvvyaoN7DRe1v7mukcZsdFO8TJwzwaODfByEZaQwXCJfQsSUdGf3cH7X7d+DfIAznizHhVlmZ9gzswVLnFr6qtWJIwLkViw34BKxQhsqZ1W3oLFBxkI9OzNP8TYWhnc0lkifr/bu2p/X8jYfr02wL5IH3U38Sk2T7TRJLki1DKo1FQfWlwwndCjgaVDVQppIJzBGkQzWqbfutcr2akl0rIIohsESlxlsy1wRqP1DNqk2/SnmamiO6pMci6EqYf0317Q4NDZRelTqphIPTQqYoWgFr999HIvp+ROM54l/4bUc/Kg9boTScejOOF+p6+i7DfzVNAvv58U8b0sJd8kAFjEC7tI1gpbEddewKGOvMugePp/wwhU3n2S4rJY6fqST6gI07fGvJ+gEedULVjVukPdj0VnJBcpp+LhwKxRpVmwc47Lv8nUlpmMf8jxO0qUBVrONn6IaNbhlhdI8I4qQhasDVpiW/720q1SiMcUOk8g+T0PTSMXglBvZByRXrsDPiW/DKrmDKAU88D3Nxpvna7BaWkHMn7ON+gWR0kma3OjlSqA7opHQinxTsAz2E3aiY595Mw/MJ+j2Zu7A0hv+kFIRW9la7yInJtnMKJ0WqP8zanubnNpLScJZleka+KfNtwYe/FBLiw8/gbFYW6Qo1F6KJhA3itmV7owjJjxqGzvheYYaiqiOCr0rnk1F7Z+4BvxiD/JFFdaVyAGoHMn5DeAG//vY30Ka9bkPjL2MPU=",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
-      },
-      {
-        "name": "TYC SPORT",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmsCrL+eIsmKqvLL+kZB1ySJ3R+5U4kFNPVp8NoFUPFsDVMLp9yOSdXAXARhY+qCtKUmtA8J7xXJB3HCndAUNvd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybxD3PYaMc9Z85b3RuDp5ozwjDlEoR1yDP1giq1HSWkSyMGFmrgP/ofLkIuAVH8GjU0jMuWAfiFkcYgZsNrUDzg8aKnwk3t/TdM2gD5Z51GPqxikNbRWCcY4u7HyVcj9Sw==",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
+        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/89A9C05A1BAB3920C492B3CF73006351F3D6E41330FB796B828329E55E031814/scale?width=320",
+        "drm_license_uri": "G0dCCNvWJzMC7o0ec/u95peUggyil+EkgGgdjgvhrZKcvec4xQ=="
       }
     ]
   },
