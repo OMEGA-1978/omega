@@ -644,13 +644,6 @@
     "name": "DEPORTES",
     "samples": [
       {
-        "name": "Boca Juniors (ARG) vs. Fluminense (BRA) | La previa",
-        "uri": "PO1nbxCFh/nH0Ntf3BIZwYyZ9om1N3lk9b88V0Pbnr+r+1LzVE2DYcVovXtyrPwsbH6Az3RvP8bkVQh4ts59krvQkU6aeYdqVYhQDfBsjbPnD38r9EUr1HAoclckpaiyqAWtAq5efR0fdQ1mwk+E1G4PLUmBYmzLUDsGbn197LIskFI3ocBLjuRRJ+O8ajiwtYuWr+oMJ1aUVTnPLjhXdg==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "a+nh9lZ7v6L/aXf/WwZCoIvVq9JO3kyMO+gIGugQxiJ8QuqydcygkzRWttXcEVY/",
-        "icono": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/300E2C3003727C24449807CAC72524133CA498A4A004861104493BAE0A844563/scale?width=320"
-      },
-      {
         "name": "TNT SPORT HD",
         "uri": "jY7pZae+9CST4AAdnasupBJQFOe/TICuVUYMj5Pv1Xgz05wwp+/J2qM33vaa0ituC/cqrOxNIJez2EH47raF1t6TNsu24F2wlLkTEclB1Yq7RIa5IAI445ipGK0gUft7lJrQPCe8VyQdxwp3QFDb3Q==",
         "drm_scheme": "clearkey",
@@ -658,10 +651,10 @@
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
       },
       {
-        "name": "TNT SPORT HD OPC 2",
-        "uri": "rzS0bk0CufwNt6QvqtBxJPL7exywY8aeQApHTu9UNJeOmKr29Kce2NdRiVzTGy/FL31QZdcirwjQQe6imw573C4IBXyrvz9BJGX8V02vHFvGYg9tFyLAvC8EuZUPfHWf",
+         "name": "TNT SPORT HD 2 ",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckr7j+0O8DxrpM/VtJQWzAoGoXGyc2d+xsw6mvSkQq5hm9iS5O94KpEIevJaZaxhya28fRKn5oNydvkqvCfOelQ",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q7YEdtVN7qUdlISlO7Q+r6fjsuQjqXIKwwy+YThb3ocLxBhCxkIK9YAyghxzziKSxp1csg33PSRwPkyzKJoM7RZ48su9yt9F8DBaSEo01eDBBqRJTMLmI1DTXtFQsNWtMQ==",
+        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q6P0UMCevtC7KVbplUuPuNHogJAnTmRB4WMWuj+AVMQCNwMEd7ibJ5fE8iNeCZ7yzmadYwFfS1EbLgt/Ks2SmYL8BbXuDAVW5/MleSQOnx007HwYbniu8zhh8bdojX1k+Q==",
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
       },
       {
