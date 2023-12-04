@@ -626,7 +626,13 @@
         "uri": "jY7pZae+9CST4AAdnasupHMEcsTflGW8pqU5Ht7Xnv3hQpgIGWq7uD6cSGKgZybNrO9Tq+kRgiZgPas/TZkPrii4lqybl/0c037rcsOkUerhN9BAwSBplJNDD4Tjob4ES0FUAGu1X56ILOHLEQDbhA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q3pwLLGb8L17grqQm6Ywv3JOdPrM+KuOjwWjjPbL4luDQNZbeigAwaq5xZfRlRQkv1MRkuzTEpGb1xlMRTHk3KtuyjZ28v5IW7FU3FPLkPrclAppQYDEQz153UNZT0rGgrjc6RiV81QHqDVQ9gvE+P0=",
-        "icono": "https://static.tvar.io/imagenes/canal7bahia.png"
+        "icono": "https://static.tvar.io/imagenes/canal7bahia.png"  
+      },
+      {
+        "name": "Telesol San Juan",
+        "uri": "HvvOcLelgOmwVDkPPwdeWG6/XW6jw3wRhjNhPk/1BSEiK2kgrNcUdVaXxXQNI+iSMoOg4OMV3DCRav4AHx27bq4qsxuuywdaVBhLbrHwUz0=",
+        "icono": "https://static.tvar.io/imagenes/telesol.png"          
+
       }
     ]
   },
