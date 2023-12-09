@@ -43,6 +43,11 @@
     "name": "PELICULAS y SERIES",
     "samples": [
       {
+        "name":"Los extraños (2023)",
+        "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+V845UHbsLURDeP7n5BRyVEyzS97f5RGRWWTFXWcAXE7xtf+UjD03/i/8PxU80h0wPrA5pBrYtydUtCgJ/fuemRDxbo311c3OMB78SPDwJoG+JcHI5u3USzUOkKrbzMwwE=",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkr3o4RSRoImCV4yhRkfc4uBTlOw_F_BlVaAopJGT20TqfEzut"
+      },
+      {
         "name":"HISTORIA DE HONOR",
         "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+UXq3M5kpnYcD6NJb9iutTb3emu4TTivJ0WKB7wBSVgY8tNeftWxPOKRSEqyIY+n7d7/zp03mO3e7oIez6hqkrpHBVWOYCtuqZbSiyoUfhX7uJcHI5u3USzUOkKrbzMwwE=",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_tK9MPtJ59J7dTJuPE5TdfbT97-CAS8avMU1x6o3U-5vrkeyY"
