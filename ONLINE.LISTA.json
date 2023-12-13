@@ -28,7 +28,7 @@
         "icono": "https://i.ibb.co/gwP3gYy/k-Jzdzpsx-JCk-Lsw-IZr-C09f-WZaen5cn-Gue-Dt4rt-I5qbg-dcudz0-bd5s-Terqh-Gvme-Kvg.png"
       },
       {
-       "name": "TIGO 3",
+        "name": "TIGO 3",
         "uri": "xJ73+MhpfonkqpJuZcm6TJYVLf8Dk3OXg67OM68gC4HGSCM78CZV83pAdj26xiYnI4Z5D18mBx5Dh67BqREJWQYcCR/dvl7i4h5rws07R/Y=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "MTgXAyOi5TkQ5/8deQJ0NkC4TYLAccwsxY50BZFu8OvvFBBYJVqAfyr2rAdh1TWc",
@@ -42,40 +42,80 @@
     ]
   },
   {
+    "name": "El Encargado T2",
+    "samples": [
+      {
+        "name": "EP.1 ",
+        "uri": "hTn1E4UOmf++FFoEe2x/R+eDR8w6wurroMIF1PbYRfBKXelDoroOUrCJi0STenM5qlPp6/qDfMfpkrgbTQ285TNJxnOxAdOiPlduFGHKnhTr2pSt20qN3mlJSh9Dg8DTV+0LiWcdEpQjlLuUAyNSTE5mWxaPMOxV4AxFDhfodh6gOf1OLSRhoOkXnlZg7hhbwqE/wx/lOom3Cil4nR6245oCH6XUZ7S96a1ql1lG8qji2G5u53TfBIvE6Mp8a0SdlFUC8VWOac+YRXrI9t18+PcuJI4cUVQlgRKkiLoURBQ1arNtrAdsD50X0uEvMi4dmxSA6+Znqse2XcEy529aLQ==",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.2 ",
+        "uri": "hTn1E4UOmf++FFoEe2x/R6WmCbzxrSWd1iD+KXNn8Zwr5nm045CzhmPQQt4dnfwJk+9SWmFSmq1gpyhDYoMvnijeIrZm9b4N53qymh3vjER3y60xYueGILrAqwb5HC4cx8Mjzi9svDQc6nYMyzFQze4n0ciO7kyo6gn1EgIv6eR/J7rVvJTCZJTlTvwQn4wrla60bD2Q0qVidugc+0iFbIY5w8zW92rdk2ONTRVI0B/3NLLnwichvw6xxDjBSt7jhm6XL4t3xPhhk69XBtTAlHGPv0s5PNn2G93CplMoWr4ggtp+fd0HYcnnQhNg/kV7mxSA6+Znqse2XcEy529aLQ==",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.3 ",
+        "uri": "hTn1E4UOmf++FFoEe2x/RzWmRGU9bwasur7RuRSKho3XMUgECIFNrJZXpMuUE4E0KWI2sjIk9ZskW4OEPgVDS4yG4568FLh616sIHEyHODJlYYWWhlwAmpCP05H/PYF/iM7pDF+Of1xmlfGJnpNQU3DxdbBxQGkNeS7WtSA7b/lP0POMY6rmf3DjWFG7yFR5RCf9wElcvkroOw3CuTKRT1qpmrz/W+A6XaUOazaFytB4gQx9eRqXlsZ1/ah9WbIZh+JE3CaF/C3i18KzdpqvJ8th0AIFoex7QnWtK0fGCgT/mbvuUfxBx22+FOvpurblMxCXeJ0r9bD35Kxg7Ru3wQ==",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "SUBIENDO ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdBSE9TwVFZKbQUsXFuSSGD/+zeIIpIKitp9Lu9CTRycZs7CvEkcmzEPdGyfC8LRM0THjNcz9VqxOewtm4Md58U",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "EP.5 ",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdBSE9TwVFZKbQUsXFuSSGDO1S4hPP3JC6Gf9XLyGAHG5s7CvEkcmzEPdGyfC8LRM0THjNcz9VqxOewtm4Md58U",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "SUBIENDO",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdBSE9TwVFZKbQUsXFuSSGDO1S4hPP3JC6Gf9XLyGAHG5s7CvEkcmzEPdGyfC8LRM0THjNcz9VqxOewtm4Md58U",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      },
+      {
+        "name": "SUBIENDO",
+        "uri": "/t9bPvaOGS7U00eyRzm4lCC3LPNGqr3KnM6jHAbXgQdBSE9TwVFZKbQUsXFuSSGDO1S4hPP3JC6Gf9XLyGAHG5s7CvEkcmzEPdGyfC8LRM0THjNcz9VqxOewtm4Md58U",
+        "icono": "https://images.justwatch.com/poster/301433421/s592/temporada-2"
+      }
+    ]
+  },
+  {
     "name": "PELICULAS y SERIES",
     "samples": [
       {
-        "name":"Pasajeros (2016)",
+        "name": "Pasajeros (2016)",
         "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+V+I0fiH8hQuVVFSD+y3rYyDyuqq8CbrQY422kYhcbI4IBWD0UWvBKcJVXQ5X8E7pE=",
         "icono": "https://es.web.img3.acsta.net/pictures/16/11/14/17/25/184425.jpg"
       },
       {
-        "name":"Tenemos un fantasma (2023)",
+        "name": "Tenemos un fantasma (2023)",
         "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+WfdRurls2tmH8H9mXtHo30DrY15xO1JPEcYXo5661/oUyhGl8ZKARTOquO2kQ+dmcCcmVSNOgiBs8nBdbnh5aJYD8pPQ50qf5GAmKP2FILfbPqGNQ38gUU1bfzgFzpEaQ=",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSf1aUObRjnJpUPCC17GJZGVF4TNR6kydEAqYj_XmUvW1BZ4mUb"
       },
       {
-        "name":"Los extraños (2023)",
+        "name": "Los extraños (2023)",
         "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+V845UHbsLURDeP7n5BRyVEyzS97f5RGRWWTFXWcAXE7xtf+UjD03/i/8PxU80h0wPrA5pBrYtydUtCgJ/fuemRDxbo311c3OMB78SPDwJoG+JcHI5u3USzUOkKrbzMwwE=",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkr3o4RSRoImCV4yhRkfc4uBTlOw_F_BlVaAopJGT20TqfEzut"
       },
       {
-        "name":"HISTORIA DE HONOR",
+        "name": "HISTORIA DE HONOR",
         "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+UXq3M5kpnYcD6NJb9iutTb3emu4TTivJ0WKB7wBSVgY8tNeftWxPOKRSEqyIY+n7d7/zp03mO3e7oIez6hqkrpHBVWOYCtuqZbSiyoUfhX7uJcHI5u3USzUOkKrbzMwwE=",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_tK9MPtJ59J7dTJuPE5TdfbT97-CAS8avMU1x6o3U-5vrkeyY"
       },
       {
-        "name":"A todas partes (2023)",
+        "name": "A todas partes (2023)",
         "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+W5fVDWr75Z8dAYTwh8mUWKKsq0ibnV/7tRp0+FKU6X4V7Qwqh6WhfOKaXPlfM5xaBpWnvc4avbviXpDsWWsZe0BdighR8gmnNXym7HZ+2m0DMQl3idK/Ww9+SsYO0bt8E=",
         "icono": "https://dl.dropbox.com/scl/fi/5pk8klx7b361callmmmde/a_todas_partes-867357163-large.jpg?rlkey=wrikr7t9n4xfx8q5ktacvbaat&dl=0"
       },
       {
-       "name": "Furias (2022)",
+        "name": "Furias (2022)",
         "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+USp4Sn92LH7nwg7/PYTusy1neGS/OytxRl8YE54QhQeN6GrKh0RoWiN0AIaJSqTHw=",
         "icono": "https://images.static-bluray.com/products/20/140983_1_large.jpg"
       },
       {
-       "name": "Conciencia (2023)",
+        "name": "Conciencia (2023)",
         "uri": "QvqDc/UBKMFEzj/i82tPHxf6wAD6qP+Xv+BEil0pv+WendBWpW9bPLmQMhus82RPZaOkZJ4+DjJsNQjZ8Fjn2cUATz29yo8FGQm6S+olBevGTCo9pD52tugNxVyoSj+B4lwcjm7dRLNQ6QqtvMzDAQ==",
         "icono": "https://m.media-amazon.com/images/M/MV5BZDhmNzI5NzktNjIzMy00N2VhLTllZTYtZjk2YjhkMmZmOTNmXkEyXkFqcGdeQXVyMTE4MTgyMjEw._V1_FMjpg_UX1000_.jpg"
       },
@@ -653,13 +693,12 @@
         "uri": "jY7pZae+9CST4AAdnasupHMEcsTflGW8pqU5Ht7Xnv3hQpgIGWq7uD6cSGKgZybNrO9Tq+kRgiZgPas/TZkPrii4lqybl/0c037rcsOkUerhN9BAwSBplJNDD4Tjob4ES0FUAGu1X56ILOHLEQDbhA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q3pwLLGb8L17grqQm6Ywv3JOdPrM+KuOjwWjjPbL4luDQNZbeigAwaq5xZfRlRQkv1MRkuzTEpGb1xlMRTHk3KtuyjZ28v5IW7FU3FPLkPrclAppQYDEQz153UNZT0rGgrjc6RiV81QHqDVQ9gvE+P0=",
-        "icono": "https://static.tvar.io/imagenes/canal7bahia.png"  
+        "icono": "https://static.tvar.io/imagenes/canal7bahia.png"
       },
       {
         "name": "Telesol San Juan",
         "uri": "IaHgeqImiPWgcJdPpk/nozppDyObP6v5woTL4zjncnYqA26Pgyd/ng+lGGeLzlNWYa6w9W0QtthMc39VusZUVHV8TRS04AeAaZ2mz2+W87qeBQJvEB/JPNy19saAevzg",
-        "icono": "https://static.tvar.io/imagenes/telesol.png"          
-
+        "icono": "https://static.tvar.io/imagenes/telesol.png"
       }
     ]
   },
@@ -674,7 +713,7 @@
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
       },
       {
-         "name": "TNT SPORT HD 2 ",
+        "name": "TNT SPORT HD 2 ",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckr7j+0O8DxrpM/VtJQWzAoGoXGyc2d+xsw6mvSkQq5hm9iS5O94KpEIevJaZaxhya28fRKn5oNydvkqvCfOelQ",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q6P0UMCevtC7KVbplUuPuNHogJAnTmRB4WMWuj+AVMQCNwMEd7ibJ5fE8iNeCZ7yzmadYwFfS1EbLgt/Ks2SmYL8BbXuDAVW5/MleSQOnx007HwYbniu8zhh8bdojX1k+Q==",
