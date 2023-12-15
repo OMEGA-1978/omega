@@ -41,39 +41,7 @@
     ]
   },
   {
-    "name": "GRAN HERMANO 2023",
-    "samples": [
-      {
-        "name": "GRAN HERMANO 24HS",
-        "uri": "ufxn52Wbsjs94dHMnzIMa9XK8E8WjnW6tUqmkatQXcJB2/Wq8wMH2CsQ5JRTw8UyTTllhGgQzbnKixq3yd++gg==",
-        "drm_scheme": "clearkey",
-        "icono": "https://i.imgur.com/LVoXucd.png",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZtTbPd9BJHp+T8qa/5nkIBob7ODKavnut1EDiw9hNd9gykSuB6FS0RIl4YA9LZsAZ9nbDucRi59tiXGeeMeUyE11lYTmye7JloItEXKT6xOFxVy4tJK7wo4iHA0g6pgcg=="
-      },
-      {
-        "name": "GRAN HERMANO CAM 1",
-        "uri": "s3jI372xRmp0MRNePCgqGs8oZV5AUnb/BcjiPmQvNrBupSXRwT94HE1v/BWSut3faexh3n9XjCwC8p5wEwnf9125bUJvEwXSSYWx+0Z1rSY=",
-        "drm_scheme": "clearkey",
-        "icono": "https://i.imgur.com/LVoXucd.png",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySaJPoETuUjN7NsoogdZuHvZ6QRtWCYIilOeSi49dnDeF7ry2Es7WUukbzshscN6ontRy1H4XJzwB4iFA7N7+BtDU0qgdGCYZLG8Ec7kL7iRmOl3UNhFnCOrwp0OrNNPiQ=="
-      },
-      {
-        "name": "GRAN HERMANO CAM 2",
-        "uri": "s3jI372xRmp0MRNePCgqGs8oZV5AUnb/BcjiPmQvNrBupSXRwT94HE1v/BWSut3faexh3n9XjCwC8p5wEwnf9+l3oJJ+P46K5poAkFacsuk=",
-        "drm_scheme": "clearkey",
-        "icono": "https://i.imgur.com/LVoXucd.png",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yU82ET/iMcdfoh9zU1YjLO0pQtQ5phpR6PIDmfyA+saP938q1LMhYWuHFj34tq/ihO1W1H6TyxiOlKQS7V8jV+uMvCsxoNqgyE5vT1Cs0zKcNYlyCFgMSWxDOADGc1EapQ=="
-      },
-      {
-        "name": "GRAN HERMANO CAM 3",
-        "uri": "s3jI372xRmp0MRNePCgqGs8oZV5AUnb/BcjiPmQvNrBupSXRwT94HE1v/BWSut3faexh3n9XjCwC8p5wEwnf93vbWNUqEEJ4UGoIo0rJJ1Y=",
-        "drm_scheme": "clearkey",
-        "icono": "https://i.imgur.com/LVoXucd.png",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yceVpuekjObmTBL68QuNR0QK6T6q3aBa/D4QHb4jRIXIsvvSm2/DevxmGiGU+3eECC7u8BqKVuA1eHN+UWch6cVT+ZnNFjAzDLdpGiEph0bGRzc8ZvG270KmYcIY8pNf3Q=="
-      }
-    ]
-  },
-  {
+
     "name": "El Encargado T2",
     "samples": [
       {
