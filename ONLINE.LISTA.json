@@ -699,6 +699,11 @@
         "name": "Telesol San Juan",
         "uri": "IaHgeqImiPWgcJdPpk/nozppDyObP6v5woTL4zjncnYqA26Pgyd/ng+lGGeLzlNWYa6w9W0QtthMc39VusZUVF+vU+8kOIpXoA98CmR+yTP2SvGosmaHWi2d1uT71t31",
         "icono": "https://static.tvar.io/imagenes/telesol.png"
+      },
+      {
+        "name": "prueba",
+        "uri": "HvvOcLelgOmwVDkPPwdeWG6/XW6jw3wRhjNhPk/1BSE+DjJtPe0O254Z0YrWq6kr+PwkYaVjhkE0orvY0KX+7Q==",
+        "icono": "https://static.tvar.io/imagenes/telesol.png"
       }
     ]
   },
