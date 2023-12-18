@@ -753,11 +753,19 @@
         "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
       },
       {
+        "name": "DSports 1",
+        "uri": "SKvyam+JfuiF7zV2wm61sONOZ8SnaZgNkhEp4fnv5O/Ab37XlSVJdarwvTlq3Gx00nYOIYH0oDPAqQHywIbIZbGoYyUUlk7k7d+QqjKWYDA=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "4gIiWboB2y9wsfLdpvSoruZB0UNWcLKQS12sS1Ai1ldzKWkDSBXatZbnr4eVddvE",
+        "icono": "https://static.tvar.io/imagenes/dtv1.png"
+      },
+      {
         "name": "ESPN PREMIUM",
         "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPTkLBYx49dMRASfpXQBFxWFWohle2Peh+p3tJcDcRwxzREg/lo0AEjkblrOO5YVXqzFG70BLyP3JPxdZWuX2emet+Efkg+/WYUDMppX0TytTg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXg99MLKfPRqH9GPbs/gV6SBfuOpsFCm08f21tFxkTVzVSt3zCJhd0kZCXpJzEK2yKq1JkC8kpcaom8BZrTPKzp4o4PDWg9g63D8ITQBn6CcBilwtvyjWG01LCzKD11ofg==",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+
       },
       {
         "name": "ESPN PREMIUM OPC 2",
