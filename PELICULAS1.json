@@ -43,6 +43,11 @@
     "name": "PELICULAS y SERIES",
     "samples": [
       {
+        "name": "Plan en familiar(2023)",
+        "uri": "BnPCZ8asEhTLI9yUbCnXxzQUWPQ68ML0amCO6H/xx3bkEB8VZDEdDW3wCrygdr+fQG0kwCM6pTxXtLsObjdlDjW7lZR+ZrJulUFNgSHh7AU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNGY3ZGNmZGMtNzBhNi00Y2U5LWI3ZTgtMjM4NDk3MjA1MDQ5XkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
         "name": "Heroico (2023)",
         "uri": "BnPCZ8asEhTLI9yUbCnXx8UH7v9tRPbnwtx0tSuOCLF8AXa8FZGnmFXQHy8sHBNleMZ8Yozl23akDcuQY/uFcw==",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQqqzvjuyDETxE4UBx_TQv5YKf7vLPwq27BFO49W0mYGNWsIb1"
