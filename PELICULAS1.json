@@ -43,6 +43,11 @@
     "name": "PELICULAS y SERIES",
     "samples": [
       {
+        "name": "Heroico (2023)",
+        "uri": "BnPCZ8asEhTLI9yUbCnXx8UH7v9tRPbnwtx0tSuOCLF8AXa8FZGnmFXQHy8sHBNleMZ8Yozl23akDcuQY/uFcw==",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQqqzvjuyDETxE4UBx_TQv5YKf7vLPwq27BFO49W0mYGNWsIb1"
+      },
+      {
         "name": "El duelo(2023)",
         "uri": "BnPCZ8asEhTLI9yUbCnXxzc601nGaAmhH3llNi6gof74kq0t+IxV0jAn5xLnv7hH2EiYsNc/eXYLyfWMnWDnOA==",
         "icono": "https://m.media-amazon.com/images/M/MV5BNWFlZDAzY2ItNDRhZS00YzU3LWFmZDItYTAxOWQwMzljOTRiXkEyXkFqcGdeQXVyMTE5Njk2ODQ2._V1_FMjpg_UX1080_.jpg"
