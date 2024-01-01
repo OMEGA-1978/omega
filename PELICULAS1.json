@@ -43,6 +43,11 @@
     "name": "PELICULAS y SERIES",
     "samples": [
       {
+        "name": "Paw Patrol: la superpelícula(2023)",
+        "uri": "BnPCZ8asEhTLI9yUbCnXxzQUWPQ68ML0amCO6H/xx3aoYSq8KBlXrxXcJPQqTeA6e8xsItuG2QGwCwoCts5IFkdfYojFcgXUhf1bxKFWnpkJodK/VJMigC/b+NA8doyx",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhBGHakKw9RxIpp9jJ-deA9L1ODuxyEjuTTfiZCpKVPlhpCCjc"
+      },
+      {
         "name": "Ladronas(2023)",
         "uri": "BnPCZ8asEhTLI9yUbCnXx12ZVcb++3GuRo3MKV3iU2Y8Mn/Tdq17/HHeKFe/sd6n2EiYsNc/eXYLyfWMnWDnOA==",
         "icono": "https://cuarteldelmetal.com/wp-content/uploads/2023/11/Ladronas.webp"
