@@ -406,6 +406,11 @@
     "name": "INTERIOR DE ARGENTINA",
     "samples": [
       {
+        "name": "TV pampeana",
+        "uri": "eEcyCWd3QU4zo5iWda1Ag4qMzS8Xy9jWib5vfpdRC3afWCCdONw8yefIQyG9FMMgTSuZUzhWhUouXt+DXvYbRAGEtSpJ29RXbwTu3y7e3Rs=",
+        "icono": "https://ugc.production.linktr.ee/b718772f-5ceb-4fb9-8412-80ffaee568f5_FB-PERFIL.jpeg?io=true&size=avatar-v1_0"
+      },
+      {
         "name": "CANAL 12 MISIONES",
         "uri": "jY7pZae+9CST4AAdnasupM5/z81jV+2Vpl4nssbKdHM7fZ59pxyOaPEirzAMjJimj+nYxgry+ScBozoPO7Lr8N6TNsu24F2wlLkTEclB1YpVIotYNX4P5+efAZrK7NbulJrQPCe8VyQdxwp3QFDb3Q==",
         "drm_scheme": "clearkey",
