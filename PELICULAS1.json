@@ -43,6 +43,11 @@
     "name": "PELICULAS y SERIES",
     "samples": [
       {
+        "name": "Los caballeros del zodiaco (2023)",
+        "uri": "9J8J6ofxn86kdIBXJ/aodvxRevvLyCoLjoAqV2IPJicgcxqRbQMpv9b5SVdf3FrnkLBudPAAMvdpSOgBOvx+67FHamqy9jzUFY9+EqRr5Y4Mshrt717+gLYYyhzPiBkSJm8H6MbsmdYnKUcinPrmkw==",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhB2SX3FbEg-T7YfkfibNOR_rK-e3f9ZuTUKJcx0NoabgC-G2J"
+      },
+      {
         "name": "Elvis (2022)",
         "uri": "9J8J6ofxn86kdIBXJ/aodr106k3srckQMRd2bkHdziSS8Fg783A14/R+2f0XU+qVGSIWoaKp4nu5YYKfLv2ebzgILh+8d7FmB0awfPt46fs=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKI91mCtiyR0byHxiRJelKNMUIKF-iBCl55OoT7W8SwRvSR8JZ"
