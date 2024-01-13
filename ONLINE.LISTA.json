@@ -1743,9 +1743,9 @@
     "samples": [
       {
         "name": "DAZN ALEMANIA",
-        "uri": "tPNDn1pSuC8Ako03QTxQrcdz6vZmczHG83LzWt5UlUSlqp682CZ482cKRaHqVSXUJIYijcc/siUQrf+qx7VO7A==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "MTgXAyOi5TkQ5/8deQJ0NkC4TYLAccwsxY50BZFu8OutN4vcXUWVPUXGEA4zmNAG",
+        "uri": "fRMBMuUxcHr9kDatVb7rJKm4qPnaJefyK5D5omVKHEcgYc+Clj894zZUaBAkVXtt+BECoRPMIrrBiaW9zPFyVlsf1Cn24rkdGPn/KKZ6RpYmGg0RBFwkYZhgmR5xrCxIDSCUb6KQKvDvrBkXQZpFLs8EeOWFzN1fJE8C5PU0c32C9JTRPEaZgtUuwruS6jDSP9oD/1/NrEXfppdR08PwhQ==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "pNnUiOXq8QpdRwr/BeSPITWAIrn0KsflfG4PVgIyVrra9sqSNZ35aTYs8sPsyFI5gqZqtw2EhlWteGlcuQmezw==",
         "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
       },
       {
