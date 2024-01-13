@@ -1775,45 +1775,5 @@
         "icono": "https://i.ibb.co/w7gZXZL/images-2.png"
       }
     ]
-  },
-  {
-    "name": "DAZN",
-    "samples": [
-      {
-        "name": "DAZN ALEMANIA",
-        "uri": "CeNgn4aqSYcmP6/+QmTzVS1TWDacxMG5JfjpxTROg73jpw8SdLSfSJUzm9WYrw2/jvJZsBNR1VGvzK2imIz9pi6so20+rUQ/hW9W+BeU+7IzEJd4nSv1sPfkrGDtG7fB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "9Im8voKKOUWYteIZx72JDWhwUIXZ+zEQAN9Pn/17pyCACWYBkZIcSWeGpZ8impTfAUaoA0tEYJZjk+/rgWGMag==",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN ALEMANIA 2",
-        "uri": "CeNgn4aqSYcmP6/+QmTzVS1TWDacxMG5JfjpxTROg73jpw8SdLSfSJUzm9WYrw2/swFFMZdn2Pl158Ug5CzZbS6so20+rUQ/hW9W+BeU+7IzEJd4nSv1sPfkrGDtG7fB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "9Im8voKKOUWYteIZx72JDWhwUIXZ+zEQAN9Pn/17pyCACWYBkZIcSWeGpZ8impTfAUaoA0tEYJZjk+/rgWGMag==",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "DAZN ESPAÑA 1",
-        "uri": "CeNgn4aqSYcmP6/+QmTzVS1TWDacxMG5JfjpxTROg73jpw8SdLSfSJUzm9WYrw2/T3cVMODO9YCzR1tCjqEBai6so20+rUQ/hW9W+BeU+7IzEJd4nSv1sPfkrGDtG7fB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "9Im8voKKOUWYteIZx72JDWhwUIXZ+zEQAN9Pn/17pyCACWYBkZIcSWeGpZ8impTfAUaoA0tEYJZjk+/rgWGMag==",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN ESPAÑA 2",
-        "uri": "CeNgn4aqSYcmP6/+QmTzVS1TWDacxMG5JfjpxTROg73jpw8SdLSfSJUzm9WYrw2/sHMI47aCajxNyJIcQl9ATy6so20+rUQ/hW9W+BeU+7IzEJd4nSv1sPfkrGDtG7fB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q9Y/6cGcyzsCxLCiy4wp93s5a/4b6QdMCN6Rnlctk7CLSGsumJdaMne9AXWbutOiw56iYuwvplcFSYE7AonXFUwdBDmSh/PMaeA9NWpgyw7jgJ47EqmdC62lGE3BVW5rqQ==",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "DAZN2",
-        "uri": "WA+DQRgk9cjRJ293TnYU97wYG/JgYloerD1TOQjDejpHcp/FeOUmVNM9C4dNokg5yHhxlG3QOfx2VNHW20ay9/zhaFqD2hguyOn6rBBxNeKY+SExHHJAIbp+k1Kg7v2Dq5xjVSVS9lfjojKUWQomlg==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfq66TO1ZigHFqGdYi+mvDuNuaLn61u15sE2EqHxl7GoaARyQK4uZAGaI+2I9Fpr+hH2oeOpOch7crQKfgpXKxeFcv7KR5KlreVYTb6CM9zuuaQXlPsDeUng1AelRtKrlg==",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      }
-    ]
   }
 ]
