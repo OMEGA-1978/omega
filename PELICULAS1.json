@@ -43,9 +43,34 @@
     "name": "PELICULAS y SERIES",
     "samples": [
       {
+        "name": "Lionel Messi: Destiny (TV) (2023)",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHq93gXJomiou8MqNFfxQDUnPh5OKe/oNbDKg7yQ8WlyA21cyO/Iij1w8lSwIg9nvO+",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNDgwNDgxZWUtNjRjNS00NDJjLWE5MGUtYmEzYjIzMGI1Y2ViXkEyXkFqcGdeQXVyMTMwOTc4OTc5._V1_FMjpg_UX500_.jpg"
+      },
+      {
+        "name": "Miss Shampoo (2023)",
+        "uri": "BnPCZ8asEhTLI9yUbCnXx4Vc67PvLja/EcW7MmXGppseIGb+Ek3rkEedRbaa9ImNQG0kwCM6pTxXtLsObjdlDjW7lZR+ZrJulUFNgSHh7AU=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMTkwNTI4MTktNjIxYi00OWNlLWJmMTEtMjBkZDRkYmZkZmY1XkEyXkFqcGdeQXVyNTg5NjQxMjc@._V1_FMjpg_UY2048_.jpg"
+      },
+      {
+        "name": "Hipnosis - Arma Invisible",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHqf1bXMuXozViRVmePFAg0s+cw/6RLsXMCza9AL2qoi1M=",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJq-ZoYQpZj8IEPvbM_Rp5c9_pkFyfMolVil_uP20fAlXA_lqI"
+      },
+      {
+        "name": "Gold Brick (2023)",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHqYkHpdFwetknFRo5gOejJ5c2MyPs/tGlsKi5f7E0dq48=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BM2MwYThjOWMtNjkxMC00OTU4LWJlZjEtNGJhOGRlZDcyNjY2XkEyXkFqcGdeQXVyMjIxOTA0MzA@._V1_FMjpg_UX810_.jpg"
+      },
+      {
         "name": "007 Operación Skyfal 4k (2012) ",
         "uri": "9J8J6ofxn86kdIBXJ/aodpLCKKSRHIz6VjbT7h1F4xfUQQXcQANLdNPwHJJgbc26PddaSRoxrXbS9FrGiD8sKGAWhI/x2hv+h+tXXuQ54+JmFoivpSiKkwiwrz9nYgr39qrYPnPsHhoDAbNpJul8FyffG2PjCsvu0uT569gdrtY1y+UihICtpauVA6efB5kReiQed2ZmZjp5b+IzAeZtMQ==",
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSAt2F64iKc8tSifNdOTG4ZUAfW152B4kYfw8GT40W5DHg8Hvg"
+      },
+      {
+        "name": "Maestro (2023)",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHqKccqc45Hv/z6vP1yKv+8xldqRLUrugvgmZdx3rr78lw=",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMDdjYjZiZDYtMjFhNy00MjM3LThiNTctNmM4MDJlMDliNjE3XkEyXkFqcGdeQXVyNjM0MTI4Mw@@._V1_FMjpg_UX1003_.jpg"
       },
       {
         "name": "Sonido de libertad (2023) ",
@@ -53,14 +78,24 @@
         "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJc2kDarIDGph_V6Qb0ooXFXhxZdhnif9GUOTih60DncDB9LLu"
       },
       {
+        "name": "Locked In (2023)",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHqf1bXMuXozViRVmePFAg0s+cw/6RLsXMCza9AL2qoi1M=",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJq-ZoYQpZj8IEPvbM_Rp5c9_pkFyfMolVil_uP20fAlXA_lqI"
+      },
+      {
+        "name": "El rey de las sombras(2023) ",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHqfdyOz/sMFsDuQXqRwI7COGY5TluG2awE65QTlXFKJKI=",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRueKANgF6i4j7mY70Aqjfz3sfu50c9q57Z0WtjFL1HfIfCVeR3"
+      },
+      {
         "name": "Wonka (2023) ",
         "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgMCOVCjbQfDnTeb2FOWKbKLI4XJoNqrGhcgHK3DVvaVJI/LnWZB1CGmJxW2LrDt7nTyVz5ibCOR0P3EDnB88onz",
-        "icono": "https://i.postimg.cc/1XLvXPgg/Wonka-poster-uk.jpg"   
+        "icono": "https://i.postimg.cc/1XLvXPgg/Wonka-poster-uk.jpg"
       },
       {
         "name": "Fátima Superstar(2018)",
         "uri": "MzT20qLrnT/yXO/p2aGFyTKB4bF5Gssntap7D16qYpDKroaHV2ojrq7vZXKypmS45IemefWlZf760mWIW87akTMQl3idK/Ww9+SsYO0bt8E=",
-        "icono": "https://i.ibb.co/bgJdTNw/1.jpg"    
+        "icono": "https://i.ibb.co/bgJdTNw/1.jpg"
       },
       {
         "name": "¡Shazam! La furia de los dioses (2023)4k",
@@ -78,7 +113,7 @@
         "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-fL4pRt_p-Us2geey7nFsZpPfvhYhm6v-Dj7lwX-TWTT6gqLV"
       },
       {
-         "name": "Guardianes De La Galaxia Vol.3 (2023)",
+        "name": "Guardianes De La Galaxia Vol.3 (2023)",
         "uri": "9J8J6ofxn86kdIBXJ/aodv+m11EwUG7PbaYVCbLr7xI7wWokZNKgwyc38unm8xUH/Y7SQ6QXyga3DiKtCoXTvP/ms1xxPUCJsvJJPbMO2JOKRjO9B2Xzde2OOMqT48zBau7xd94L/PCzSWnTkB1pXQF346vvmy0RydXuKgCU+wP/Sra4LnNBL3+qDV8gUWfCD9vdYSKgZNxpzNQuCz/PUA==",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpXFwQfZYleMjfgtgRKvsT0MrV7ObnxQgV1FpPbt91Gbe-0EYQBbA0BEbbbJH6Er_l6l3pan2JfvuqbUfCWMCVG4dV24FT_zikBXghGaM0QKTNMO7quwCf2cSLww88t54RftOYvFj2pMUGi7afj-IfdagmRU56PnX3V6TvTkiHXPbsBbMVrUnl4jWrnQ/s1600/41817-671406-20230503114933.jpg"
       },
@@ -348,6 +383,26 @@
         "name": "Abandoned (2022)",
         "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgNL5SAXTNmPnPzXZEZHnJPsNqAMnlkhcilA7HDyMWmokFkpHZNZIkntqQsmwlk8R/yGL64JB9D11is6lWYP5Llw",
         "icono": "https://images.justwatch.com/poster/302189238/s592/abandoned.webp,%20https:/images.justwatch.com/poster/302189238/s592/abandoned.webp"
+      },
+      {
+        "name": "El gerente (2022)",
+        "uri": "9J8J6ofxn86kdIBXJ/aodr106k3srckQMRd2bkHdziTtfbQOBXryssb/m3u45hXi8CYUAYpbtEBEYlP65Cn73oOeVQxNCS4QHcdsZHb/9FY=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIIr1GREZcMRZiiTybFZdDe5jpUS1HgdcVVYE75ru-KTJ0Ymzr"
+      },
+      {
+        "name": "Top Gun: Maverick (2022)",
+        "uri": "9J8J6ofxn86kdIBXJ/aodvw7YYFp/CHXkIdklV4fLFUesuo+b/BatneXxChI95VPBr6V8cyDZNe2JtYCATtQMPkCiDtDojEgS+bJBgpLw961cyO/Iij1w8lSwIg9nvO+",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcs08NfPcTiqiAOMdeS_Oe8XMgZMiBuL0S5mURdK1C8rmbtxeE"
+      },
+      {
+        "name": "Sucker Punch (2011)",
+        "uri": "9J8J6ofxn86kdIBXJ/aoduH+goqe1kog3AFUv1g4VPXN4UnxVyOZzV4I163aEoBmyqIxNH50nRN9cULIdWN1ujCORrTyxReNVHQfJ+FBI02vLUXCBoFT6IC4whFQEfunaJ7FDHcnVmB6vaNYtH5zdPQszA5JeFxkjTTqG82c7I98/B2iZgMwxyEMauv2qTW2tXMjvyIo9cPJUsCIPZ7zvg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0dKoGMD0QeJHRcyql5GWqP1TnAWjFSXD5YrfZVDO7DsnvAtP"
+      },
+      {
+        "name": "Love Tactics 2 (2023)",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHqoE/Bl5YOmVJ5hbJdpX6QSsiPJ6dHwZxBwHBUDCwGXPQ=",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsPh5kJC7JaQE403nHGPbGECkABuM3K8ER5MSdejhKz1PpGeei"
       }
     ]
   }
