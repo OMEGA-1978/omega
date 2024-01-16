@@ -601,6 +601,36 @@
         "icono": "https://i.ibb.co/27M5YFg/espn-extra.jpg"
       },
       {
+        "name": "DIRECTV 1",
+        "uri": "DgbRUrMyFJMIWgiOQs3DJ/dzgYX19DHICXcA9SQ7ZwTF3Yuvn6hLQc8WeB13hUMx",
+        "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.0b4deea8bd3634643956d5900e8c3144.png"
+      },
+      {
+        "name": "DIRECTV 2",
+        "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybCheIvTiB4bOO31K6jrcH3X1gQ==",
+        "icono": "https://www.directv.com.ec/content/dam/public-sites/channels/612.png"
+      },
+      {
+        "name": "DIRECTV PLUS",
+        "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybChej2QECaSUbqLdUczzUuvPxQ==",
+        "icono": "https://www.directv.com.ar/content/dam/public-sites/channels/613.png"
+      },
+      {
+        "name": "BEIN SPORTS EXTRA",
+        "uri": "1H23GdHPQzLfuazl/3SqJ8EADthsNpLLRxNzyQCDysyShQijGJpAzxm6rtNDWAhcoQmpcgn9e8fokoUBKWeRcuf4KznBOj8fWL53RVlWMso=",
+        "icono": "https://tvguatemala.net/wp-content/uploads/2022/11/beIN-Sports-Extra-en-Espanol.webp"
+      },
+       {
+        "name": "WIN SPORTS",
+        "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybCheioLTHzRBTuh4Zn/ABKEpLQ==",
+        "icono": "http://imgfz.com/i/GkPvFZr.jpeg"
+      },
+       {
+        "name": "VTV PLUS",
+        "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybCheEdIRD1wvh0uhNPEp7fL9VA==",
+        "icono": "https://1.bp.blogspot.com/-BXoc42N964w/YTi6LzWemWI/AAAAAAAAQdM/25aOChbB8CQsJ77pAM7mSuFYJvegQklMwCLcBGAsYHQ/s574/VTV%2BPlus%2Ben%2Bvivo.jpg"
+      },
+      {
         "name": "AMERICA SPORTS",
         "uri": "jY7pZae+9CST4AAdnasupCii3kgRbB/rBYrtdwCYJRoGdZNnyXtDV9vkPxsQltVDtAMy0e5oXUG62vB9qdTz/wTAYcjmKZa8zQgvhTgmkvkoin15UBiW2f4oiYH/4xjGePQmcl1sPTqswP+On3ahMA==",
         "drm_scheme": "clearkey",
@@ -1534,46 +1564,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yadz0+68kGETI0hvRwsWJWevINo6JWPsqHU/QpT8zpSAIeMNVS1ImNFud0COoMoMCBFwg2YHcn33stqDIxVmhCfw2hidbve2gLQTB7UdYvmhzDy2YjuLpyDD2kaRRh3SSg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
-      }
-    ]
-  },
-  {
-    "name": "DAZN of",
-    "samples": [
-      {
-        "name": "DAZN ALEMANIA",
-        "uri": "fRMBMuUxcHr9kDatVb7rJKm4qPnaJefyK5D5omVKHEcgYc+Clj894zZUaBAkVXtt+BECoRPMIrrBiaW9zPFyVlsf1Cn24rkdGPn/KKZ6RpYmGg0RBFwkYZhgmR5xrCxIDSCUb6KQKvDvrBkXQZpFLs8EeOWFzN1fJE8C5PU0c31xJK/qWNJ37PasY7N6g1WMGd1kg6mwemcPjrvImSqHCLWLlq/qDCdWlFU5zy44V3Y=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "pNnUiOXq8QpdRwr/BeSPITWAIrn0KsflfG4PVgIyVrra9sqSNZ35aTYs8sPsyFI5gqZqtw2EhlWteGlcuQmezw==",
-        "icono": "https://i.ibb.co/sqWXzxk/unnamed-2.png"
-      },
-      {
-        "name": "DAZN ALEMANIA 2",
-        "uri": "CeNgn4aqSYcmP6/+QmTzVS1TWDacxMG5JfjpxTROg73jpw8SdLSfSJUzm9WYrw2/swFFMZdn2Pl158Ug5CzZbS6so20+rUQ/hW9W+BeU+7IzEJd4nSv1sPfkrGDtG7fB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q3PbLYOq0wtXHs71Na5T0QUCCMlutkdjPS/qpeDkZSaxbRQWS6t/f2UFwIpTBkph1lZDQN13OdSdtljeCFn8+em56NuC8lYP8rNQCXqYXEkYslh3NC82L3nktdoZfdvbCQ==",
-        "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
-      },
-      {
-        "name": "ARENA  SPORT 2 PREMIUM",
-        "uri": "/xiObVO7e9GWZPqCT/aSdZY2LrZXJzlDYrn41L/o9hJ48uWRRTqihvJzxzzFGP0hV+SbgqwciHO2YSRZ70V/yw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "9Im8voKKOUWYteIZx72JDWhwUIXZ+zEQAN9Pn/17pyCOajxZxKm4POn6Unl8acSXCGlu4aC+vGn/5MCEqqjCqA==",
-        "icono": "https://i.ibb.co/XFwwGcL/tv-station-rs-arena-premium-2-2697.png"
-      },
-      {
-        "name": "ARENA  SPORT 3 PREMIUM",
-        "uri": "/xiObVO7e9GWZPqCT/aSdZY2LrZXJzlDYrn41L/o9hJ48uWRRTqihvJzxzzFGP0hiUVhXLsMrDx4l6Mh6I75cw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "9Im8voKKOUWYteIZx72JDWhwUIXZ+zEQAN9Pn/17pyCOajxZxKm4POn6Unl8acSXCGlu4aC+vGn/5MCEqqjCqA==",
-        "icono": "https://i.ibb.co/xHy202f/tv-station-rs-arena-premium-3-2698.png"
-      },
-      {
-        "name": "EURO  SPORT",
-        "uri": "CeNgn4aqSYcmP6/+QmTzVS1TWDacxMG5JfjpxTROg73jpw8SdLSfSJUzm9WYrw2/ctqYm3XC5RkjCT+kDo71wC6so20+rUQ/hW9W+BeU+7IzEJd4nSv1sPfkrGDtG7fB",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "jntdW7QjE6eNy3tzDX31F/whXIvbQgwLYbERAfe8jDcO+BBLUNR9l32BAPAxf0/X7H2dU5Hk9f8KDEg+rfrW7A==",
-        "icono": "https://i.ibb.co/w7gZXZL/images-2.png"
       }
     ]
   }
