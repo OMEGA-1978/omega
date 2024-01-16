@@ -18,7 +18,6 @@
         "name": "TIGO GUATEMALA",
         "uri": "oj/fiTl3liwx1+b1GfU+UxJX9lUW24ZlLho4JQDSJH8lbNyt2iOXaFUydh/7ff9ExYwohoK+nlORfnFOFpJDQqRQlgSLFyqeXPsvi8aBUOE=",
         "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
-
       }
     ]
   },
@@ -509,10 +508,10 @@
       {
         "name": "Supercopa: Real Madrid vs. Barcelona",
         "uri": "5yZC/OUhWZS4yUH7V7I93n7fy7WEz5hMIWMm+QC56uzANmRNiZNqLhGLcWGYIRzCDFJbwxZrTdcMVbN0kWioUg==",
-        "icono": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-01/sporting-news-2022-versus-matchup--cd4bf1a6-6816-442f-a644-c1c98f5a3d61.png?h=920929c4&itok=FEQbyxfy"   
+        "icono": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-01/sporting-news-2022-versus-matchup--cd4bf1a6-6816-442f-a644-c1c98f5a3d61.png?h=920929c4&itok=FEQbyxfy"
       },
       {
-              "name": "Real Madrid vs. Barcelona opc 2",
+        "name": "Real Madrid vs. Barcelona opc 2",
         "uri": "NGyo9KQgDUrJ2QjIlhUEru5sOGVPAPkzBVFn8MPU/z0ME7RTPbFCo4kA/7fVHk+SnRSZpoOQCh8oK6M0+b4C/g==",
         "icono": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-01/sporting-news-2022-versus-matchup--cd4bf1a6-6816-442f-a644-c1c98f5a3d61.png?h=920929c4&itok=FEQbyxfy"
       },
@@ -620,12 +619,12 @@
         "uri": "1H23GdHPQzLfuazl/3SqJ8EADthsNpLLRxNzyQCDysyShQijGJpAzxm6rtNDWAhcoQmpcgn9e8fokoUBKWeRcuf4KznBOj8fWL53RVlWMso=",
         "icono": "https://tvguatemala.net/wp-content/uploads/2022/11/beIN-Sports-Extra-en-Espanol.webp"
       },
-       {
+      {
         "name": "WIN SPORTS",
         "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybCheioLTHzRBTuh4Zn/ABKEpLQ==",
         "icono": "http://imgfz.com/i/GkPvFZr.jpeg"
       },
-       {
+      {
         "name": "VTV PLUS",
         "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybCheEdIRD1wvh0uhNPEp7fL9VA==",
         "icono": "https://1.bp.blogspot.com/-BXoc42N964w/YTi6LzWemWI/AAAAAAAAQdM/25aOChbB8CQsJ77pAM7mSuFYJvegQklMwCLcBGAsYHQ/s574/VTV%2BPlus%2Ben%2Bvivo.jpg"
@@ -699,6 +698,16 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q6kMWVgHVfbc/OlkE0JPCupSgIgu196cxCtTjORHPOaUhUmhPSEZC94bf8Nt9o2aSz/UWMjZXlymAmCqcEJHAe8PdkbbyDdSnMVb4vASqphVOmXTMLN//FI+4TID5HXSAQ==",
         "icono": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg"
+      },
+      {
+        "name": "SPORT TV 2",
+        "uri": "OS/wwmJ9PdGiMI1EfIJeCNUDFmSkwcZSx9Yi/rmQF2PK6Lex5mPpi/g7da6Ss6lm8iqaDWObHUN7KrCZt+/xCgXuor1CbUL5txuF4zch9M4=",
+        "icono": "https://imgur.com/AznDBJd.jpeg"
+      },
+      {
+        "name": "SPORT TV 3",
+        "uri": "OS/wwmJ9PdGiMI1EfIJeCNUDFmSkwcZSx9Yi/rmQF2PK6Lex5mPpi/g7da6Ss6lmnfKPrcwL+xqkNQPvnXL/N/fLCXWSqc6MkOYUy0AEn3s=",
+        "icono": "https://imgur.com/WHWT22B.jpeg"
       }
     ]
   },
@@ -1515,7 +1524,7 @@
       },
       {
         "name": "VTV PLUS OPC 2",
-        "uri": "UYzzDzltUWaZCCEVYZAKTTGO9tbP6kpXMozen3Y+nhJYBJM6ddW3gFaskVv7ueiNplPMqs1tW+2lCWRjoPOohA==",
+        "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybCheEdIRD1wvh0uhNPEp7fL9VA==",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
       }
     ]
