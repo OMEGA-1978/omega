@@ -506,6 +506,11 @@
     "name": "DEPORTES",
     "samples": [
       {
+        "name": "River Plate vs. Monterrey",
+        "uri": "5yZC/OUhWZS4yUH7V7I93n7fy7WEz5hMIWMm+QC56uzANmRNiZNqLhGLcWGYIRzCDFJbwxZrTdcMVbN0kWioUg===",
+        "icono": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0110%2Fr1115915_1080x608_16%2D9.jpg"
+      },
+      {
         "name": "TNT SPORT HD",
         "uri": "jY7pZae+9CST4AAdnasupBJQFOe/TICuVUYMj5Pv1Xgz05wwp+/J2qM33vaa0ituC/cqrOxNIJez2EH47raF1t6TNsu24F2wlLkTEclB1Yq7RIa5IAI445ipGK0gUft7lJrQPCe8VyQdxwp3QFDb3Q==",
         "drm_scheme": "clearkey",
