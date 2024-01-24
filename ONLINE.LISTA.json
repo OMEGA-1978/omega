@@ -599,18 +599,8 @@
       },
       {
         "name": "DIRECTV 1",
-        "uri": "6iyJDH0YCwZkYKMXlYTDWe/tooBlaZUVUnGABcBk3ehhLmZ/nPIGbc9bT0KQfUWEfmTSi6TdnVSxxoxRPjVMXjiKlseSdPcqBcfb6w6vRgQBp/eSHhxdcLOx/ai5NYI8MxCXeJ0r9bD35Kxg7Ru3wQ==",
+        "uri": "eNP01CKBZEXvbcBnSegeGeYmiMfCGX8kCefiLWKCkWL/m4hq14fXNO5JFnq/AmTR",
         "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.0b4deea8bd3634643956d5900e8c3144.png"
-      },
-      {
-        "name": "DIRECTV 2",
-        "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybCheIvTiB4bOO31K6jrcH3X1gQ==",
-        "icono": "https://www.directv.com.ec/content/dam/public-sites/channels/612.png"
-      },
-      {
-        "name": "DIRECTV PLUS",
-        "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybChej2QECaSUbqLdUczzUuvPxQ==",
-        "icono": "https://www.directv.com.ar/content/dam/public-sites/channels/613.png"
       },
       {
         "name": "BEIN SPORTS EXTRA",
@@ -623,16 +613,25 @@
         "icono": "http://imgfz.com/i/GkPvFZr.jpeg"
       },
       {
-        "name": "VTV PLUS",
-        "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybCheEdIRD1wvh0uhNPEp7fL9VA==",
-        "icono": "https://1.bp.blogspot.com/-BXoc42N964w/YTi6LzWemWI/AAAAAAAAQdM/25aOChbB8CQsJ77pAM7mSuFYJvegQklMwCLcBGAsYHQ/s574/VTV%2BPlus%2Ben%2Bvivo.jpg"
-      },
-      {
         "name": "AMERICA SPORTS",
         "uri": "jY7pZae+9CST4AAdnasupCii3kgRbB/rBYrtdwCYJRoGdZNnyXtDV9vkPxsQltVDtAMy0e5oXUG62vB9qdTz/wTAYcjmKZa8zQgvhTgmkvkoin15UBiW2f4oiYH/4xjGePQmcl1sPTqswP+On3ahMA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q6BaS+Wluz0fnWKM5b6BvCCWuVW6xT2+hlvgMinqS0u+xC1WP+ssmQIdJSupg5e8AqNnP6vZGhv6huJrch+SOhsqjtgeh8QCn5H5//Q71A1xn6ty8zs4S+nBjLUG6lk5dg==",
         "icono": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg"
+	    },
+      {
+        "name": "VTV",
+        "uri": "jY7pZae+9CST4AAdnasupHMEcsTflGW8pqU5Ht7Xnv07f5lQberkHMFhWrZuXCXmpttq0GJE8tthENg2VkY+pSfzsAh8ZLhZy5iUzqXS1S/GYg9tFyLAvC8EuZUPfHWf",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "YOhN6SaFzURu0OC51/r6QzYM+pkklq4dPxIvmvdP0IhUWFHWERtRMYlJzbvkOE6Fa1w91ky4UODm2UBz1WmRM0FH7pAnirALaCpNGlM/SEXlnz0zjak6m2EzwVFPen9Fl7EURoZO+nv25CJWQ9rSGg==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
+	    },
+      {   
+        "name": "VTV PLUS",
+        "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPRppHrk2g+ZnRtIkckD2XXBYE0SbSf/b2E6dtWkKz0rXbTNHlWMXS3wsX/ZOGHn2L149CZyXWw9OqzA/46fdqEw",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q2L0d/jj8O/Yny50dP/aJACZ5Ik+A0V+CKoZyzb2ViikUHIJXeqgT2h315Zbp7Jogq3c7emAqZbXwjxYcAy51upC1Ll97fMdVWUNYYr9R6Hsy8wgb/E+EstBvP9c/qspwA==",
+        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
       },
       {
         "name": "TYC SPORTS",
@@ -642,6 +641,7 @@
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
       },
       {
+        
         "name": "TYC SPORT (PLAY 1)",
         "uri": "ZkHdpyOKpMQBpJ9ZEoD3yjbinhzNBJEQEqRU9hveUtaPuBAGvDHPp7GG+bXdwEETrTbzot1/S8R606fJHVnLwQy9c1NS+LaFBwrcj8FSeRKjjAtWQYhc9s3oTW8gHDVp",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
@@ -1506,11 +1506,6 @@
         "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPRppHrk2g+ZnRtIkckD2XXBYE0SbSf/b2E6dtWkKz0rXbTNHlWMXS3wsX/ZOGHn2L149CZyXWw9OqzA/46fdqEw",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q2L0d/jj8O/Yny50dP/aJACZ5Ik+A0V+CKoZyzb2ViikUHIJXeqgT2h315Zbp7Jogq3c7emAqZbXwjxYcAy51upC1Ll97fMdVWUNYYr9R6Hsy8wgb/E+EstBvP9c/qspwA==",
-        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
-      },
-      {
-        "name": "VTV PLUS OPC 2",
-        "uri": "Nm6g2E29MnKcCTnVYDRQitW2/nIF5DVUWBfRewH1TAAZQTvJKO1PWCzhzfFybCheEdIRD1wvh0uhNPEp7fL9VA==",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
       }
     ]
