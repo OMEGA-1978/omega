@@ -707,7 +707,6 @@
         "name": "SPORT TV 3",
         "uri": "OS/wwmJ9PdGiMI1EfIJeCNUDFmSkwcZSx9Yi/rmQF2PK6Lex5mPpi/g7da6Ss6lmnfKPrcwL+xqkNQPvnXL/N/fLCXWSqc6MkOYUy0AEn3s=",
         "icono": "https://imgur.com/WHWT22B.jpeg"
-
       },
       {
         "name": "TNT SPORTS BRASIL",
@@ -732,7 +731,6 @@
     ]
   },
   {
-
     "name": "CINES-SERIES",
     "samples": [
       {
@@ -746,22 +744,47 @@
         "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png"
       },
       {
+        "name": "UNIVERSAL CINEMA ",
+        "uri": "ObO3bwl6hw5IJ52+Q3qtLi8q3ZGtXfrM6v9K79ODsoKT2dwjFam9Hv5FdbJlQLSKErjvIWpcupPOW40HD/BVSbSI6NFjuCGZY7GY0LbxbPypqTP3bBumgldKrfZos37KhzIDR4zmu8Uxu6Uvm6i6ng==",
+        "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png"
+      },
+      {
+        "name": "UNIVERSAL COMEDY OPC 2",
+        "uri": "ObO3bwl6hw5IJ52+Q3qtLi8q3ZGtXfrM6v9K79ODsoKT2dwjFam9Hv5FdbJlQLSKErjvIWpcupPOW40HD/BVSbSI6NFjuCGZY7GY0LbxbPyHn2bqzvBJvJZvtkN83KDchzIDR4zmu8Uxu6Uvm6i6ng==",
+        "icono": "http://static.tvar.io/imagenes/uncomedy.png"
+      },
+      {
         "name": "UNIVERSAL COMEDY",
         "uri": "hJGch+r9/Vnx+GekYJ32cu6dy8UOs24M3uI/Ik7YgFZ8+Q2h+4HJG+J2iqqZ92Nh",
         "icono": "http://static.tvar.io/imagenes/uncomedy.png"
       },
       {
         "name": "UNIVERSAL CRIME",
+        "uri": "ObO3bwl6hw5IJ52+Q3qtLi8q3ZGtXfrM6v9K79ODsoKT2dwjFam9Hv5FdbJlQLSKErjvIWpcupPOW40HD/BVSbSI6NFjuCGZY7GY0LbxbPwWVZ5UduqMkiwwJw9KiDBh+IkJTpSuCMwjVDGP2oip/Q==",
+        "icono": "http://static.tvar.io/imagenes/uncrime.png"
+      },
+      {
+        "name": "UNIVERSAL CRIME OPC 2",
         "uri": "hJGch+r9/Vnx+GekYJ32cu6dy8UOs24M3uI/Ik7YgFYlARHlqucsEqT/RqQ1c1Bl",
         "icono": "http://static.tvar.io/imagenes/uncrime.png"
       },
       {
         "name": "UNIVERSAL PREMIERE",
-        "uri": "ObO3bwl6hw5IJ52+Q3qtLi8q3ZGtXfrM6v9K79ODsoKT2dwjFam9Hv5FdbJlQLSKErjvIWpcupPOW40HD/BVSbSI6NFjuCGZY7GY0LbxbPyX/YWy2/oTPOuDbYo72WnEh2C9r6p/hQywG7NepKqqBA==",
+        "uri": "ObO3bwl6hw5IJ52+Q3qtLi8q3ZGtXfrM6v9K79ODsoKT2dwjFam9Hv5FdbJlQLSKErjvIWpcupPOW40HD/BVSRJwLPLz/ZapMThnEP/v+E6VrDYNcaUdpO6O6baZynbjhzIDR4zmu8Uxu6Uvm6i6ng==",
+        "icono": "http://static.tvar.io/imagenes/unpremiere.png"
+      },
+      {
+        "name": "UNIVERSAL PREMIERE OPC 2",
+        "uri": "ObO3bwl6hw5IJ52+Q3qtLi8q3ZGtXfrM6v9K79ODsoKT2dwjFam9Hv5FdbJlQLSKErjvIWpcupPOW40HD/BVSRJwLPLz/ZapMThnEP/v+E6AfW+8tVBfyabvbndXHMl6o4wLVkGIXPbN6E1vIBw1aQ==",
         "icono": "http://static.tvar.io/imagenes/unpremiere.png"
       },
       {
         "name": "UNIVERSAL REALITY",
+        "uri": "ObO3bwl6hw5IJ52+Q3qtLi8q3ZGtXfrM6v9K79ODsoKT2dwjFam9Hv5FdbJlQLSKErjvIWpcupPOW40HD/BVSbSI6NFjuCGZY7GY0LbxbPx9OHLc+PEYRHGz/zKh5a7hH4bCqaPf0lRR4TUG9FyJDA==",
+        "icono": "http://static.tvar.io/imagenes/unreality.png"
+      },
+      {
+        "name": "UNIVERSAL REALITY OPC 2",
         "uri": "hJGch+r9/Vnx+GekYJ32cu6dy8UOs24M3uI/Ik7YgFba4iNEbjrR8Z/EXicR6e5O",
         "icono": "http://static.tvar.io/imagenes/unreality.png"
       },
@@ -774,6 +797,16 @@
         "name": "GOLDEN PLUS",
         "uri": "+UGcjQM9lgg15mqjG9MuQuz732KsAdLXVBGqbeEP+Q/wCPZUMpvtFEiMKdtWUtNhxYwohoK+nlORfnFOFpJDQqRQlgSLFyqeXPsvi8aBUOE=",
         "icono": "https://i.ibb.co/0QygQDg/goldenplus.jpg"
+      },
+      {
+        "name": "GOLDEN PREMIER 2",
+        "uri": "ObO3bwl6hw5IJ52+Q3qtLi8q3ZGtXfrM6v9K79ODsoKT2dwjFam9Hv5FdbJlQLSKErjvIWpcupPOW40HD/BVSRJwLPLz/ZapMThnEP/v+E6VrDYNcaUdpO6O6baZynbjhzIDR4zmu8Uxu6Uvm6i6ng==",
+        "icono": "https://clarovideocdn0.clarovideo.net/CVPERU/PELICULAS/GOLDENPREMIER2/EXPORTACION_WEB/SS/GOLDENPREMIER2_t-290x163.png"
+      },
+      {
+        "name": "GOLDEN PREMIER HD",
+        "uri": "ObO3bwl6hw5IJ52+Q3qtLi8q3ZGtXfrM6v9K79ODsoKT2dwjFam9Hv5FdbJlQLSKErjvIWpcupPOW40HD/BVSRJwLPLz/ZapMThnEP/v+E6AfW+8tVBfyabvbndXHMl6o4wLVkGIXPbN6E1vIBw1aQ==",
+        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GOLDENPREMIERHD/EXPORTACION_WEB/SS/GOLDENPREMIERHD_t-290x163.png"
       },
       {
         "name": "CINE LATINO",
