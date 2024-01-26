@@ -43,6 +43,21 @@
     "name": "PELICULAS y SERIES",
     "samples": [
       {
+        "name": "Adventures of Rufus: The Fantastic Pet (2020)",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHqNqQBxBxvd7Mw+mY/ir2N1qgTjRdTSU9W6It0EBqV9tq0JR2jQ+gyzvxd8GxEZXavEsdUrlY8E7TbmBkEZOAN7A==",
+        "icono": "https://images.justwatch.com/poster/308781454/s592/adventures-of-rufus-the-fantastic-pet"
+      },
+      {
+        "name": "Cacería en Venecia (2023)",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHq0q8f1CcQlNG2uhryXihiSMDg1VTJZmsTW6GJZ68uBh+1cyO/Iij1w8lSwIg9nvO+",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXP3v7XTQRi8P1rY-GSfJuXen8B_-4TznPLXOYYCYVUO--MgdO"
+      },
+      {
+        "name": "Locas por Brady (2023)",
+        "uri": "rn8O/K6HLU9HC9/t5r92LRj8UZ5g0+uE+RC5siRYDvA3UxaBxN8OgLxX6p382lHq1QS/3rY3J0fqDqQS1ldqbylJvqWNiTqEUUZSckU2u2c=",
+        "icono": "https://musicart.xboxlive.com/7/fcef6400-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+      },
+      {
         "name": "Blade Runner 2049 (2017)",
         "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wc05ULWLK99bRV8bansVwtRLZ3PBLvBPpxRukDmThamDMQl3idK/Ww9+SsYO0bt8E=",
         "icono": "https://m.media-amazon.com/images/M/MV5BMTU0NjM4MzI2N15BMl5BanBnXkFtZTgwMTQ2MzI2MzI@._V1_FMjpg_UX675_.jpg"
