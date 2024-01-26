@@ -206,16 +206,6 @@
         "icono": "https://i.imgur.com/mSn7ACs.png"
       },
       {
-        "name": "CANAL-7-SALTA",
-        "uri": "oj3rP29CwT0mh5nr1wpblMDh2jIHu7/W7N4FhV/8Z6+3NzwU3zXqcYMXiA7IEY/hR4XwWWD2O5rVm9Mg9lrX7w==",
-        "icono": "https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-1.png"
-      },
-      {
-        "name": "Canal 13 San Luis TV",
-        "uri": "IaHgeqImiPWgcJdPpk/nozppDyObP6v5woTL4zjncnYqA26Pgyd/ng+lGGeLzlNWYa6w9W0QtthMc39VusZUVI2xDIZfTV6r5gpdYoXdP2NHxp4a3+IuLp6xyaHJSu3Z",
-        "icono": "https://yt3.googleusercontent.com/ytc/AOPolaRjLiZ7WPIvWUKF3DvuMCXX79XSGGHlwccLUs1m-w=s176-c-k-c0x00ffffff-no-rj"
-      },
-      {
         "name": "Aire de Santa Fe",
         "uri": "Qw6TOaBWXJpUrdTexGZiFn98BRvFKy1Fbm+L52sy0FFZQdx2LLUPGLY4Wosyqovy3TrsUwSs1+Jso91mFCXW7TisXSImO1TOj/6OmiA8KLI3gBv/72N9CmvW5D4y9jD1",
         "icono": "https://i.imgur.com/60vSWW0.png"
@@ -226,19 +216,9 @@
         "icono": "https://photos.live-tv-channels.org/tv-logo/norte-vision-satelital-4905-w360.webp"
       },
       {
-        "name": "Chilecito TV (480p)",
-        "uri": "oj3rP29CwT0mh5nr1wpblMDh2jIHu7/W7N4FhV/8Z685I3HlPtt39tV1S17X6s4viXGzwBKG9aG0lzLBf3k/6A==",
-        "icono": "https://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg"
-      },
-      {
         "name": "SPTV SAN PEDRO",
         "uri": "0QWaigvuo9lnebFJSHS/yKTV1I+2wcsingpipWmi+JH3AnR3ePUKVtTSVYr/8FtzewfzWSgzFjkHGCt+BjQcZg==",
         "icono": "http://static.tvar.io/imagenes/sptv32.png"
-      },
-      {
-        "name": "GEN TV",
-        "uri": "4+K5FqJSe+8VXXC8P0jYtby65Vg67jD05lxmMoWAGqQ4FZ5ExoO5xitZEX9TLqumAYS1Kknb1FdvBO7fLt7dGw==",
-        "icono": "https://latinartv.com/sites/default/files/logos/gentv.jpg"
       },
       {
         "name": "STREAM MAX JUJUY",
@@ -259,11 +239,6 @@
         "name": "Neox TV Salta",
         "uri": "3hMQ/Y9jZaXHXt6TvjaLgjJopD8hfJGXO6VCuQwLAAJ1LSZKIMX/3Vvw1WddXEQldMVcDawzSaT2ZqFknMll0A==",
         "icono": "http://www.radiosargentina.com.ar/png/VINEOXTV.png"
-      },
-      {
-        "name": "Canal 2 Jujuy",
-        "uri": "+iHgrzAyrAFJh7cWjzgn1us55eRkh8eTfzNZcePTDGZvDPLnMbVPbItj9gsEnrwj/BL8TbHWy9Up++wka7FFMLp8x03K0Q2N38QaFbjsjgI=",
-        "icono": "https://i.ibb.co/XLJ5cc3/descarga-1.png"
       },
       {
         "name": "El Siete TV ",
@@ -296,11 +271,6 @@
         "icono": "https://yt3.googleusercontent.com/ytc/AOPolaS6nOtptS4HASXy1O9uP2_mXS6r0gfzchQMzWeO=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "name": "Canal 9 la Rioja",
-        "uri": "4+K5FqJSe+8VXXC8P0jYtWKHIvn828l3/u2XGSHl+36wEGC/kK7U9Krd9v/zWT6KAYS1Kknb1FdvBO7fLt7dGw==",
-        "icono": "https://static.tvar.io/imagenes/canal9larioja.png"
-      },
-      {
         "name": "CANAL 6 POSADAS",
         "uri": "ka2y14a+1e5V464WRADIiKukNUoKOR78MTTyNemQaZjHqqbS531BMXbJ8o+EMLy0WOBHzXntywaWcbrshmLdxw==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png"
@@ -319,7 +289,7 @@
       },
       {
         "name": "BRAGADO TV",
-        "uri": "cgQDqL3MOQQICjOw/C0DjDvLFaBZuitM2wBKO/Zmt3U3gBv/72N9CmvW5D4y9jD1",
+        "uri": "4+K5FqJSe+8VXXC8P0jYtQQOnGHnftguUQslP9B+DEPpKF+w3KPFg27PvI7yXls2AYS1Kknb1FdvBO7fLt7dGw==",
         "icono": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg"
       },
       {
@@ -328,16 +298,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q+uEsTdL1WX/ZmargpzzPFw4Ff3C+Y3Fn0fRlfFmDlfM13rzJNRp2awh7rXse2JX8NIo2DhhFzZ2NNvvueD+vpvUMqActRSu7iVl9IP33WCzvoxZ0VqwVuZEfMqGU/vILiXHaw90vqm5SNE3hIGhd/E=",
         "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
-      },
-      {
-        "name": "Canal 8 San Juan",
-        "uri": "Fd1CYUZIXm7wFnbqpQODiK/alOVUra9iJtsMxqwjUMRhJd5bFqGSJ/PQHw1Z77I2W7qbqCF/YK+uBsc3DxJcRg==",
-        "icono": "https://static.tvar.io/imagenes/canalochosanjuan.png"
-      },
-      {
-        "name": "Canal 4 San Juan",
-        "uri": "w9lnNbNtz1xVpNeckXxtRmhxEsiGyNBBH+b//QeSX0J/zU8pKCtcBMDH8NVUvEJY3Yqe6qOfG4TvuhytkKA/1A==",
-        "icono": "https://static.tvar.io/imagenes/canal4sanjuan.png"
       },
       {
         "name": "CANAL 4 JUJUY",
@@ -355,16 +315,6 @@
         "icono": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es"
       },
       {
-        "name": "Canal 30 San juan",
-        "uri": "IaHgeqImiPWgcJdPpk/nozppDyObP6v5woTL4zjncnbKJHX5ROScb19YDqRKZSUz4bGn4sFs0XfoB+sJA1n9DOZcEzW5gvCSiZ9YB0ASD/Tw6vasBpUs483HsLtxkft8",
-        "icono": "http://static.tvar.io/imagenes/canal4sanjuan.png"
-      },
-      {
-        "name": "AMERICA TUCUMAN",
-        "uri": "Fd1CYUZIXm7wFnbqpQODiK/alOVUra9iJtsMxqwjUMQ/21+srBgv5HWVgc61ycE15OreeqEXVNGtRTljk9/c+Q==",
-        "icono": "https://americatucuman.com/wp-content/uploads/2020/03/LOGO-AMERICA-TUCUMAN-2020.png"
-      },
-      {
         "name": "EL 8 TUCUMAN",
         "uri": "vgXeyDnk8p+6eIXrcrjRCoFQrNzl71+umOuUl73dopxGGXg45HtzMoUtlfk9EfoZ8EsEEahLzvEO2RnYOafW/qRJo95YjIxLPFiOWYTO46YiAFWlYarB1cks51ibsIjNxmIPbRciwLwvBLmVD3x1nw==",
         "drm_scheme": "clearkey",
@@ -375,11 +325,6 @@
         "name": "Canal 34 San juan",
         "uri": "9HzNFYWZlnlAzGEkvUSjMgKxs49xgDDbmxx7DYNtMVL17LNoAjJzJkLAHlx9VACjxmRtrAIdYAEs9y/yt3nPMg==",
         "icono": "https://static.tvar.io/imagenes/34sanjuan.png"
-      },
-      {
-        "name": "Albardon TV",
-        "uri": "x0GcNwXOS1S3F5TMxB9XjJkrJ5YQcsLZ+3BdQnTEzQ2Y2nGQMXbd72XyHNE2Ut4WewfzWSgzFjkHGCt+BjQcZg==",
-        "icono": "https://static.tvar.io/imagenes/albardontv.png"
       },
       {
         "name": "TELEFE CORDOBA",
@@ -401,11 +346,6 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png"
       },
       {
-        "name": "Canal 7 Santiago del Estero",
-        "uri": "eEcyCWd3QU4zo5iWda1Agy9VOGzQwxcXXDBAkbiU8pyJuxyfysong2eiAUvHUI0CAYS1Kknb1FdvBO7fLt7dGw==",
-        "icono": "https://4.bp.blogspot.com/-6HfJdVSoY6c/VpvBVOLh5VI/AAAAAAAAApg/4i-7-4KOyL0/s1600/c7-castv-2015.png"
-      },
-      {
         "name": "CANAL 10 CORDOBA",
         "uri": "q2GJhktV9s9kqJYb13PfUBbbLeIG4TMFpaONQW1VT8isb7azHnzWR+1ciTwRUKHDIfSGerrsHQC3b6ZcDS0O+122Qm7thEsTVRDR/RrRQ6k2xTIERP2avIncKIXrZ6yN",
         "drm_scheme": "clearkey",
@@ -424,11 +364,6 @@
       },
       {
         "name": "Canal 13, San Luis",
-        "uri": "eEcyCWd3QU4zo5iWda1AgwBOZa/sInU5HcDkA7/9AlrI/KfCdrMMvYivWyIbGoKz4y9hyTQdB1Nfh9FnzxoSXGP34v22t/0CexL6Xm6Me41VUgy86WR2oCVrnhrKfVsg",
-        "icono": "https://i5o948.p3cdn1.secureserver.net/wp-content/uploads/2020/05/LOGO-PARA-FONDO-COLOR.png"
-      },
-      {
-        "name": " CANAL 13 SAN JUAN EN VIVO",
         "uri": "eEcyCWd3QU4zo5iWda1AgwBOZa/sInU5HcDkA7/9AlrI/KfCdrMMvYivWyIbGoKz4y9hyTQdB1Nfh9FnzxoSXGP34v22t/0CexL6Xm6Me41VUgy86WR2oCVrnhrKfVsg",
         "icono": "https://i5o948.p3cdn1.secureserver.net/wp-content/uploads/2020/05/LOGO-PARA-FONDO-COLOR.png"
       },
