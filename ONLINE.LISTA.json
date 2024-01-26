@@ -1102,6 +1102,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q0Qf5re+NlsWdbeBqJePdeKnRw/aUMLIDPT4BtzYYB04nZUAb25HjAL4/r4E7/iY49N1XKBpbKQ5++VYXAjnEgxt8rCb5+RQikOr6rJ7mrdex7EnvK5+3FBLeU350m+0ZQ==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
+      },
+      {
+        "name": "GOURMET",
+        "uri": "q2GJhktV9s9kqJYb13PfUBbbLeIG4TMFpaONQW1VT8j+IFESln2EqZbJLjDK4VGm330ANKDIXpKylOa/kmi3McZN/38TYYiwvR9eHonP0y6UmtA8J7xXJB3HCndAUNvd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/bnzcehrixlougj16cqvbt/KEY.GOURMET.json?rlkey=t4gwkhg4a502ryi4cq7gqyuob&dl=0",
+        "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_10/large.580a1b6313b4e_ElGourmet.png.cf460cc629e79e69c235b2da550fcdb8.png" 
       }
     ]
   },
