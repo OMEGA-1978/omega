@@ -1364,7 +1364,7 @@
       },
       {
         "name": "SBT",
-        "uri": "OS/wwmJ9PdGiMI1EfIJeCNUDFmSkwcZSx9Yi/rmQF2PK6Lex5mPpi/g7da6Ss6lm/5pia1xKzK78av2q5sckOzptJYD4PLeXW2/UrUc4FS0ErR2P2ZvaxLR4kYIX9aeT",
+        "uri": "be8VW8QZdDmZ7aFY1AKv9PQ0uzqJjGydcbQW4yEfmTduwCRpt3WyQsany4i9pwMOzc8WxMrp9DkrRgmfBb0Z5gGEtSpJ29RXbwTu3y7e3Rs=",
         "icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"
       },
       {
@@ -1379,18 +1379,13 @@
       },
       {
         "name": "RECORD TV",
-        "uri": "ggu5E57Q/Qvprvc7peKadqVl3x0zFH8+UFkmWWkgvd/Tsa4deo3XQn16GqsrLyCl/tk0NI1WYL5xQsASsqdTKA==",
+        "uri": "9c+IcO83QIcv56yCBDXvcGB66tyDrOfZEV+nNhOvCBrygLv0zZaIbRx+m90xm/ojDFJbwxZrTdcMVbN0kWioUg==",
         "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
       },
       {
         "name": "VIVAX TV",
         "uri": "W3TaUNfkBfF2IRM2eLchs5mGK3kxd7eC+7hs/6hMtck/WxB8cn9pxoaC2InxsJqCN4Ab/+9jfQpr1uQ+MvYw9Q==",
         "icono": "https://static.wixstatic.com/media/9b4759_f0419bca4d06487b9f369204e011a7a9~mv2.png/v1/fit/w_2500,h_1330,al_c/9b4759_f0419bca4d06487b9f369204e011a7a9~mv2.png"
-      },
-      {
-        "name": "TV TEM",
-        "uri": "M/xKwwrJnuZp6wKhlk4pAruHYKql93dsTI2WMeAhckn4ieWhv5bvPjmPF18VcPKD",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/Tvtem_2003.png/revision/latest/scale-to-width-down/200?cb=20191223042226"
       },
       {
         "name": "TV TEM",
@@ -1441,6 +1436,11 @@
         "name": "phoenix tv",
         "uri": "KfFRPAka99UsolhFQohkzymkKgSWUC++8RZj43uugTUMUAJ8yB6JAW5mHLOIbLSd/ihcYDrdGHL+9O+CM8EdoQ==",
         "icono": "https://scontent.feze7-2.fna.fbcdn.net/v/t39.30808-6/300414269_562700385585873_9114388969049269022_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=b_5PdAdfmykAX9CIWny&_nc_ht=scontent.feze7-2.fna&oh=00_AfDcbHKJ3oKYUJblmWVA9HyLStu4NIp8rVbCGkyYWjzYuA&oe=65BA124A"
+      },
+      {
+        "name": "Fonte TV",
+        "uri": "3JRwL1MM9dftlSirFWfZXOjjRbekaMfDpuUKsMEyY1JO3WCpEbVazVNFEGGn2UoXsjXlfw9UimGuMndIk5ru8A==",
+        "icono": "https://pbs.twimg.com/profile_images/672286254/FTV5_400x400.JPG"
       }
     ]
   },
