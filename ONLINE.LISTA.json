@@ -1338,13 +1338,18 @@
     "name": "BRASIL",
     "samples": [
       {
+        "name": "EVENTOS TNT Sports Brasil",
+        "uri": "H4DNNjHZm5mC5APIexI0jYqmMjY4RQ+PvS8KtFCUSNkmZsAU2tsVqZns7lQ4rvWQxrAw7ajHZ2OfYx5Q6i477f7ZNDSNVmC+cULAErKnUyg=",
+        "icono": "ANd9GcQvUDn6WzhYkQ5Ypo17hCmlFgSePnYM7UiXnPDJdHe8Xl4l5Zhn5_rDwIsUD3SKVEW3yAo"
+      },
+      {
         "name": "GLOBO TV",
         "uri": "W3TaUNfkBfF2IRM2eLchs96q6Wj0RRRFMCZ0v0HP3fqDbxujFBZ7ydTNgsvb18QkTl8f5Wu0dARmkjpf37T3Ng==",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
       {
         "name": "BandSports",
-        "uri": "OS/wwmJ9PdGiMI1EfIJeCNUDFmSkwcZSx9Yi/rmQF2PK6Lex5mPpi/g7da6Ss6lmOYDehNdWylNPDpaXDzBovIzKGtC5fhe/XjsZnV3JBP4=",
+        "uri": "9XjFqXQOIEEqTxGNiS1AEXpJxI1b3XTjsyeZ7dhywTcruao3OxtlWoQ9WgAuk8lx/tk0NI1WYL5xQsASsqdTKA==",
         "icono": "https://dl.dropbox.com/scl/fi/obzu060o5bmw20aym0tho/WhatsApp-Image-2023-08-28-at-3.33.22-PM.jpeg?rlkey=d26mz5llj7b8lrtvwsodkiu3g&dl=0"
       },
       {
@@ -1376,6 +1381,46 @@
         "name": "RECORD TV",
         "uri": "ggu5E57Q/Qvprvc7peKadqVl3x0zFH8+UFkmWWkgvd/Tsa4deo3XQn16GqsrLyCl/tk0NI1WYL5xQsASsqdTKA==",
         "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
+      },
+      {
+        "name": "VIVAX TV",
+        "uri": "W3TaUNfkBfF2IRM2eLchs5mGK3kxd7eC+7hs/6hMtck/WxB8cn9pxoaC2InxsJqCN4Ab/+9jfQpr1uQ+MvYw9Q==",
+        "icono": "https://static.wixstatic.com/media/9b4759_f0419bca4d06487b9f369204e011a7a9~mv2.png/v1/fit/w_2500,h_1330,al_c/9b4759_f0419bca4d06487b9f369204e011a7a9~mv2.png"
+      },
+      {
+        "name": "TV TEM",
+        "uri": "M/xKwwrJnuZp6wKhlk4pAruHYKql93dsTI2WMeAhckn4ieWhv5bvPjmPF18VcPKD",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/Tvtem_2003.png/revision/latest/scale-to-width-down/200?cb=20191223042226"
+      },
+      {
+        "name": "TV TEM",
+        "uri": "M/xKwwrJnuZp6wKhlk4pAruHYKql93dsTI2WMeAhckn4ieWhv5bvPjmPF18VcPKD",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/Tvtem_2003.png/revision/latest/scale-to-width-down/200?cb=20191223042226"
+      },
+      {
+        "name": "Agro Brasil Tv",
+        "uri": "99N5KPL9OlMwb0Emiiyh6PA84G2dFjZz2LrqNBMn+u4VFlv4d1EJOvPgOv6Sp4JOr0/l5JeEWETivwFYLQVtfXsH81koMxY5BxgrfgY0HGY=",
+        "icono": "https://yt3.googleusercontent.com/cXotKAuWNCW4tfw_XCJ32w2iyOsx3m5h9BNXl3SpItLwo7ZDO8QcLNtF4sbSIfMoUbnI4b2tKXQ=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "Cine Brasil",
+        "uri": "W3TaUNfkBfF2IRM2eLchs5CTp1HyyIW3AiTLNQ0b7Z4375+cHc4y3yz3fGBPaPIRN4Ab/+9jfQpr1uQ+MvYw9Q==",
+        "icono": "https://scontent.feze7-1.fna.fbcdn.net/v/t39.30808-6/298957758_488686276593589_1823058943312052466_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=WORLkEjAsncAX83X5b_&_nc_ht=scontent.feze7-1.fna&oh=00_AfDiW8ExDY7qZzN4hvEMpNHcIK5eFPcb9CfQag71LLN0SA&oe=65BB1866"
+      },
+      {
+        "name": "Max tv HD",
+        "uri": "SLQqSZzxxu1ONcdtw/Nsxi/W97vWT9gUNJhnh2IBnZozvbHMIoRWn3UHhbX1Et9kZEuqeGIh/Hz5MwvUUcie2A==",
+        "icono": "https://play-lh.googleusercontent.com/nX0w3zOT2hW2rDnvazhrJTToAJs0GEWMoKTEzA4a62JPXj3mP8GqLHT3q3Faxl7IgA"
+      },
+      {
+        "name": " petlovers tv",
+        "uri": "LDfP6DxEt2qvnnlQpi8vH4mJk7577PX3LAaUT6QG4IIZOBaEHqNTmgY0A5wvLsJphhGkN1haPgvFwd5r6TPWSAGEtSpJ29RXbwTu3y7e3Rs=",
+        "icono": "https://yt3.googleusercontent.com/TMdOrHJSSCmWhE7Uqlz4ax9nXgV3tVm3WOQ9CKlA8fWY4d2cDq-1ywEp_A0zA2T3C3JzmKs_rhE=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "TV Aparecida",
+        "uri": "be8VW8QZdDmZ7aFY1AKv9PQ0uzqJjGydcbQW4yEfmTcmcKt0eiwSUtCuTvuz087ZBf67nZDhI13jb3SJr0dLCP7ZNDSNVmC+cULAErKnUyg=",
+        "icono": "https://santuariosantapaulina.org.br/wp-content/uploads/2012/12/Logo_TV_Aparecida_700.jpg"
       }
     ]
   },
