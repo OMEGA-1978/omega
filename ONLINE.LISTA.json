@@ -1088,6 +1088,11 @@
     "name": "CANALES INFANTILES",
     "samples": [
       {
+        "name": "Cartoonito",
+        "uri": "Fzj6R199gMmBnJDuHirHMK4kMFjI/hJVAV5+VDoq1PZGyMHlO17IBDAjwQeJUy5hSvR8p3gnRytX5bIOA/MV8b0o38PGvWOEmBdXmzOrwZc=",
+        "icono": "https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI"
+      },
+      {
         "name": "PAKA PAKA",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CnKljC5dVTAV9nGLNqIsF8XFYYNnSI2nyYlc9s2ctR6zu2hLo5TlsdSbVJCqxujl+51c8sYnK0/VS7FqBPwhp7Q",
         "drm_scheme": "clearkey",
