@@ -1,149 +1,27 @@
 [
   {
-    "name": "TV EN VIVO XXX",
+    "name": "Por favor, ponte en contacto con tu proveedor para la actualización de la aplicación.",
     "samples": [
       {
-        "name": "PLAYBOY",
-        "uri": "vgXeyDnk8p+6eIXrcrjRCrpuDju9PnRVgwVn6JYl/cEI+qopupoqqaLGzftGgrqcb7Iw8YDJJg9ihbJYGKNYFWRYSvamYkwUQ0AI8hyPeSvGYg9tFyLAvC8EuZUPfHWf",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySash3aUp7/jFllGBWK8v++pIRQzEjmgTTq60vuru+HQ7ik5IdhamYHQ4dKl9Tn56NQ1lQ11iP7mUYS41mPDJztz4yapMIHaYyA8fiFVSMJmTyTOrrHcXs9hXeMGABJYfA==",
-        "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg"
+        "name": "futbol py 1",
+        "uri": "5yZC/OUhWZS4yUH7V7I93n7fy7WEz5hMIWMm+QC56uxnrhoipzept6br/uXf+Xub5/grOcE6Px9YvndFWVYyyg==",
+        "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
       },
       {
-        "name": "VENUS",
-        "uri": "vgXeyDnk8p+6eIXrcrjRCuOE7XLgswe/aQm3mbt13E6aGStXuklontzSE4pwN1/JbDu9M+kOnz/dSLGiUPqo6LpYA+m/HwxwovlLZ4NcAHN49CZyXWw9OqzA/46fdqEw",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQgGNs5a4+D3+btNzQoHZlLWjW82e2Wdk6qnXMh5YCHzK4qlbzyAFeDt7asdFRqAoWzEEieuQbJx/szE0dMIbfKsq9RFcyrJd2pXoTPqBEZ6o644bjw2uSpU1uefR4AIfA==",
-        "icono": "https://cdn.mitvstatic.com/channels/7d8e150e-912c-4b8f-9019-5d1b12f35a55_m.jpg"
+        "name": "futbol py 2",
+        "uri": "n6ooUqr/DOHo+CeqsF0lQDjtjg5r+wm+06nO93XwSJL+5AElbw02WaLzRfwvaT/cIoxHirrdN43y9ZlTvGQ5JWOgNkzkZl4J9asDnniiFsE=",
+        "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
       },
       {
-        "name": "SEX ESTREME",
-        "uri": "q2GJhktV9s9kqJYb13PfUBbbLeIG4TMFpaONQW1VT8hFTedhCpYvG9CfcGAuFViG47CatWgCjbcL7XwKiMa9DqHQ8vZLM33vKurtPtvOOCHGYg9tFyLAvC8EuZUPfHWf",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YOhN6SaFzURu0OC51/r6Q+SC8eNv+lu5bGyQZmm94XmU/uGcbCNj7g9vPNzBa8MS2lbyuaENKH/43nnAp8cwkCpvjR+PSrEdTIrCJcuHZMl81Ek+YtLQ7HA7MAsAnWipydrzj7vpC66ydUvehgGJUQ==",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
+        "name": "futbol py opcional",
+        "uri": "9DyV3dz0MayRnWEp8rSiKBrU+ULExULik8o7UrzQ5uuw83EnfDh+YoXMP75UbErwPal0RJsVjQ9qwTcas+gJcJrcW0bGa375zJchJ6psLsc=",
+        "icono": "https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg"
       },
       {
-        "name": "pruebas",
-        "uri": "NVxMW7W75OPE4HM5oE+Em76Dk0CVxrt4uXiHziyuvpInjO0Kly64GEm6/7lWLFZ0VZ4VUJqdBh0c2GMOx7pJraRi2kSjBL4Xc3+XqPnhN5A=",
-        "icono": "https://alfaomegaeditor.com.ar/wp-content/uploads/2023/02/unnamed.png"
-      },
-      {
-        "name": "pruebas",
-        "uri": "Wev4RsX7nTSUBLee7HqnJMoUdjnkVHTmFc1LprJbZytx5AwLhwjtdaNnPx/80kQq",
-        "icono": "https://alfaomegaeditor.com.ar/wp-content/uploads/2023/02/unnamed.png"
-      },
-      {
-        "name": "pruebas",
-        "uri": "NVxMW7W75OPE4HM5oE+Em76Dk0CVxrt4uXiHziyuvpJmmXrygsz//7wxe5q0ZxfwjE8WcQOr0AgDHebKQr8itI6MI5YQfIBwiC1XVf87pWU=",
-        "icono": "https://alfaomegaeditor.com.ar/wp-content/uploads/2023/02/unnamed.png"
-      },
-      {
-        "name": "pruebas",
-        "uri": "udHGtlaRo39sZeYiD3DF1uO7jLz4HvIJem0ViJ+EpEPpTUJ2A3LUmMc9qthzB/Kko4wLVkGIXPbN6E1vIBw1aQ==",
-        "icono": "https://alfaomegaeditor.com.ar/wp-content/uploads/2023/02/unnamed.png"
-      },
-      {
-        "name": "pruebas",
-        "uri": "Bg12YQHrw4UJl7HyfSHmRpQrZyc36iSb1DpIEO02X32phO1yB4FIEiAPeeAOl4LggqhI2NB+qfIREHnsH0OARw==",
-        "icono": "https://alfaomegaeditor.com.ar/wp-content/uploads/2023/02/unnamed.png"
-      },
-      {
-        "name": "Anal",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/W82EMOfv6ZgeAuF0EBwQeROXx/la7R0BGaSOl/ftPc2",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Culonas",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/X9SZGEmyR75ZM6dv1M3DTDKVAXipE66E+o8IZVZa/+Z",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Estrellas porno",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/fpn0iajtba9KSneBtQOnN85FJzEIVqkpqgkt/sb3u0S",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Fetiches",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/Z350FxpjTlEfHif4lzWEB7KVAXipE66E+o8IZVZa/+Z",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Gangbang",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/Sg3Uf+ORZnDiNOxHKWyQJzvONV+HfEAi1LDDEKRH8er",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Gay",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/Tk1bCm3At5IYOGpvtSPLdU3gBv/72N9CmvW5D4y9jD1",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Interracial",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/Z0xsPSkjD/SvcEiHII605hs8SHrrIFY4bI9TYVHmFof",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Jóvenes",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/U2bKeCizVsrs8cPY4VzpHtOXx/la7R0BGaSOl/ftPc2",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Latinas",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/d1MxKt96u992GkSI94JXuDKVAXipE66E+o8IZVZa/+Z",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Lesbianas",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/eaNLT1sKE2v1FSKyTRWhHd7B/NZKDMWOQcYK34GNBxm",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Milf",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/dyHtQHzI72GcckmPXKm/RhOXx/la7R0BGaSOl/ftPc2",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Oral",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/aSnLTUanY7Of5hOe4PAGrN7B/NZKDMWOQcYK34GNBxm",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "POV",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/ZAE0yt6LI1rqPrSuYxxWrM3gBv/72N9CmvW5D4y9jD1",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Pene grande",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/UxgujeUNE+crwqLA+ozxF97B/NZKDMWOQcYK34GNBxm",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Rusas",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/X8FB3kMRrFrKmarhMTBMwJ7B/NZKDMWOQcYK34GNBxm",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Sexo duro",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/UTaqxhBaN3fyjMWlrADRg9CRGrW7DcVV1XRHcDXUnzb",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Tetonas",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/TKWisAh6oAbgBjqQ1EOhrZ7B/NZKDMWOQcYK34GNBxm",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "Tríos",
-        "uri": "lCZYyryvGp1wQ3jcoARJ/Tnd+7jtc/Laf7DzG8wEckttpWHIUzxTf5u2+9hTon3B",
-        "icono": "https://media.istockphoto.com/id/1350885528/vector/under-18-sign-warning-symbol-over-18-only-censored-eighteen-age-older-forbidden-adult.webp?b=1&s=612x612&w=0&k=20&c=s6or2m0d_Vk2AIs1-umCFZ-WXnqdg4y8cHONfmNyaHY="
-      },
-      {
-        "name": "prueba",
-        "uri": "ujaRKCN3aytOMIbBfvrCMpa/B5ERbknVlOt9w8MI8khHcp/FeOUmVNM9C4dNokg5yHhxlG3QOfx2VNHW20ay94qxHsU7pKm4XX0oTXl+qkQT1EeB6oPoRgEvTI41xrG5xmIPbRciwLwvBLmVD3x1nw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "4gIiWboB2y9wsfLdpvSoruZB0UNWcLKQS12sS1Ai1ldlyqPXrszM5rc8z5M762+W",
-        "icono": "https://i.blogs.es/a19bfc/testing/1366_2000.jpg"
+        "name": "TIGO GUATEMALA",
+        "uri": "oj/fiTl3liwx1+b1GfU+UxJX9lUW24ZlLho4JQDSJH8lbNyt2iOXaFUydh/7ff9ExYwohoK+nlORfnFOFpJDQqRQlgSLFyqeXPsvi8aBUOE=",
+        "icono": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/4f/7c/8e4f7ce7-727e-d147-3a61-abe7c8fd6192/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.png"
+
       }
     ]
   }
